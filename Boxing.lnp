@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>aa25d78a-dc87-40c3-b560-3466a845ed4f</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs20 Boxing\par
+\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\b0 Value Type -&gt; Reference Type \f1\fs18\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af\'c7\'cf\'b4\'c2 \'b0\'fa\'c1\'a4\'c0\'cc\'b4\'d9\f0\fs20\par
+\f1\fs18{\pntext\f3\'B7\tab}\'bd\'ba\'c5\'c3(\f0 Value)\f2\'bf\'a1 \'c0\'d6\'b4\'c2 \'b0\'aa\'c0\'bb \'c8\'fc(\f0 Reference)\f2\'bf\'a1 \'bb\'f5\'b7\'ce\'bf\'ee \'b0\'f8\'b0\'a3\'c0\'bb \'bb\'fd\'bc\'ba\'c7\'d1 \'c8\'c4 \'b0\'c5\'b1\'e2\'bf\'a1 \'b0\'aa\'c0\'bb \'ba\'b9\'bb\'e7\'c7\'d1\'b4\'d9.\f0\fs20\par
+\fs18{\pntext\f3\'B7\tab}Boxing\f2\'c7\'d1\'b4\'d9\'b4\'c2 \'b0\'c7 \'c1\'ef \'bb\'f5\'b7\'ce\'bf\'ee \'b0\'b4\'c3\'bc\'b8\'a6 \'b8\'b8\'b5\'e5\'b4\'c2 \'c0\'db\'be\'f7\'c0\'cc\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'bc\'ba\'b4\'c9\'c0\'fb\'c0\'ce \'c0\'fa\'c7\'cf\'b0\'a1 \'b8\'c5\'bf\'ec \'c5\'a9\'b4\'d9.(\'c1\'d6\'c0\'c7)\f0\fs20\par
+\pard\f2\fs18\par
+\par
+\f0 EX)\par
+\par
+int nValue = 100;\par
+\par
+Object o1 = nValue; // Boxing \f2\'c7\'f6\'bb\'f3\'c0\'cc \'c0\'cf\'be\'ee\'b3\'b2\f0\fs20  \par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Boxing</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-25T07:54:41.6035968+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T07:58:37.8661103+09:00</UpdatedOn>
+  <Words>Boxing
+
+Value Type -&gt; Reference Type 으로 변환하는 과정이다
+스택(Value)에 있는 값을 힙(Reference)에 새로운 공간을 생성한 후 거기에 값을 복사한다.
+Boxing한다는 건 즉 새로운 객체를 만드는 작업이기 때문에 성능적인 저하가 매우 크다.(주의)
+
+
+EX)
+
+int nValue = 100;
+
+Object o1 = nValue; // Boxing 현상이 일어남 </Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

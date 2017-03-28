@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>2e286057-e8b7-466b-b891-4d533f0878e1</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs20 void * a;\b0\f1\par
+\par
+\f0 a \f1\'c6\'f7\'c0\'ce\'c5\'cd \'ba\'af\'bc\'f6\'c0\'c7 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c0\'da\'b7\'e1\'b4\'c2 \f0 void\f1\'c7\'fc\'c0\'cc \'b5\'c7\'b8\'e7  \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'cc \par
+\'c1\'a4\'c7\'d8\'c1\'ae \'c0\'d6\'c1\'f6 \'be\'ca\'b4\'d9\'b4\'c2 \'b0\'cd\'c0\'bb \'c0\'c7\'b9\'cc\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\'bf\'d6 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2\'b0\'a1?\par
+\par
+1.\'b8\'f0\'b5\'e7 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b3 \'bc\'f6 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9.\par
+\tab\'bf\'d6\'b3\'c4\'c7\'cf\'b8\'e9 \f0 void\f1\'c7\'fc\'c0\'cc\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'be\'ee\'b6\'b0\'c7\'d1 \'b5\'a5\'c0\'cc\'c5\'cd\'b6\'f3\'b5\'b5 \'b0\'a1\'b8\'ae\'c5\'b3 \'bc\'f6 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9.\par
+\tab\'b4\'d9\'b8\'b8 \'c0\'d3\'c0\'c7\'c0\'c7 \'c6\'f7\'c0\'ce\'c5\'cd\'bf\'a1 \f0 void\f1\'c7\'fc \'c6\'f7\'c0\'ce\'c5\'cd\'b8\'a6 \'b4\'eb\'c0\'d4\'c7\'d2 \'b6\'a7\'b4\'c2 \'b9\'dd\'b5\'e5\'bd\'c3 \'c7\'fc \'ba\'af\'c8\'af\'c0\'bb \'c7\'d8\'c1\'e0\'be\'df \'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\'b4\'dc\'c1\'a1\par
+\tab\'c0\'ce\'c5\'cd \'bf\'ac\'bb\'ea\'c0\'cc \'ba\'d2\'b0\'a1\'b4\'c9\'c7\'cf\'b8\'e7, \'b0\'aa\'c0\'c7 \'ba\'af\'b0\'e6 \f0 or \f1\'c2\'fc\'c1\'b6\'b5\'b5 \'ba\'d2\'b0\'a1\'b4\'c9\par
+\tab\'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'b4\'eb\'bb\'f3\'bf\'a1 \'b4\'eb\'c7\'d1 \'be\'ee\'b6\'b2 \'c7\'fc(\f0 type)\f1\'c1\'a4\'ba\'b8\'b5\'b5 \'b4\'e3\'b0\'dc\'c0\'d6\'c1\'f6 \'be\'ca\'b1\'e2 \'b6\'a7\'b9\'ae\par
+\par
+\f0 ex) ap = (int *)a;\par
+\par
+\f1\'c4\'dd\'b9\'e9 \'c7\'d4\'bc\'f6\f0\par
+\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>void 포인터</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T15:18:23.8805371+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T13:33:35.3693182+09:00</UpdatedOn>
+  <Words>void * a;
+
+a 포인터 변수의 가리키는 자료는 void형이 되며  가리키는 자료형이 
+정해져 있지 않다는 것을 의미합니다.
+
+왜 사용하는가?
+
+1.모든 데이터의 주소를 가리킬 수 있습니다.
+	왜냐하면 void형이기 때문에 어떠한 데이터라도 가리킬 수 있습니다.
+	다만 임의의 포인터에 void형 포인터를 대입할 때는 반드시 형 변환을 해줘야 합니다.
+
+단점
+	인터 연산이 불가능하며, 값의 변경 or 참조도 불가능
+	가리키는 대상에 대한 어떤 형(type)정보도 담겨있지 않기 때문
+
+ex) ap = (int *)a;
+
+콜백 함수
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

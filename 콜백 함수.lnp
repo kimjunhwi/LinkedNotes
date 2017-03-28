@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c6d2c8ce-a029-403c-b3dc-1455b0acacfe</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 //\f1\fs18\'b8\'e9\'c1\'a2 \'c1\'fa\'b9\'ae\'b9\'ae\'c1\'a6\par
+\par
+\f0 MFC\f1\'bf\'a1\'bc\'ad \'c1\'d6\'b7\'ce \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e7\f0  void \f1\'c6\'f7\'c0\'ce\'c5\'cd\'b8\'a6 \'c0\'cc\'bf\'eb\'c7\'d8\'bc\'ad \'c1\'d6\'b7\'ce \'bb\'e7\'bf\'eb\'b5\'c8\'b4\'d9 \par
+\par
+\'c7\'fc\'c5\'c2\'b4\'c2 \f0 Callback void Function(void *p); \f2\'c0\'c7 \'c7\'fc\'c5\'c2\'b7\'ce \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e7\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>콜백 함수</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T15:06:31.1028311+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-18T16:08:09.8385825+09:00</UpdatedOn>
+  <Words>//면접 질문문제
+
+MFC에서 주로 사용하며 void 포인터를 이용해서 주로 사용된다 
+
+형태는 Callback void Function(void *p); 의 형태로 사용하며</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

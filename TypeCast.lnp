@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>174023f8-dc42-417b-92b1-727c8b186913</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'b8\'ed\'bd\'c3\'c0\'fb \'c7\'fc\'ba\'af\'c8\'af \'c1\'be\'b7\'f9\par
+\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>TypeCast</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-25T07:54:09.2637471+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T08:28:21.6651377+09:00</UpdatedOn>
+  <Words>명시적 형변환 종류
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
