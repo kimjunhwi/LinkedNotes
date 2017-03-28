@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>45291911-fd91-4f8a-8178-c08ce24ad3e7</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs20 Call by Value\par
+\b0\par
+\pard\li150\par
+\f1\'c0\'e5\'c1\'a1 \par
+\tab\f0 Call by Value\f1\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd(\'b0\'aa)\'c0\'bb \'ba\'b9\'bb\'e7\'c7\'d8\'bc\'ad \'c7\'d4\'bc\'f6\'b7\'ce \'c0\'fc\'b4\'de\'c7\'cf\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1\f0\par
+\f1\tab\'bf\'f8\'ba\'bb\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd(\'b0\'aa)\'b0\'a1 \'ba\'af\'b0\'e6 \'b5\'c9 \'b0\'a1\'b4\'c9\'bc\'ba\'c0\'cc \'be\'f8\'b4\'d9, \par
+\par
+\'b4\'dc\'c1\'a1\par
+\tab  \'b0\'aa\'c0\'bb \'b3\'d1\'b0\'dc\'c1\'d9\'b6\'a7\'b8\'b6\'b4\'d9 \'b0\'aa\'c0\'bb \'ba\'b9\'bb\'e7\'c7\'d8\'be\'df \'b5\'c7\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'b0\'ed\'ba\'f1\'bf\'eb . \'ba\'b9\'bb\'e7\'bc\'d5\'bd\'c7\'c0\'cc \'b9\'df\'bb\'fd\'c7\'d1\'b4\'d9.\f0\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>값에 의한 호출</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-25T13:31:18.5485996+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T15:49:58.5901939+09:00</UpdatedOn>
+  <Words>Call by Value
+
+
+장점 
+	Call by Value는 데이터(값)을 복사해서 함수로 전달하기 때문에
+	원본의 데이터(값)가 변경 될 가능성이 없다, 
+
+단점
+	 값을 넘겨줄때마다 값을 복사해야 되기 때문에 고비용 . 복사손실이 발생한다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

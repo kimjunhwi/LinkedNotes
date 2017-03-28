@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>6a18e301-4007-4981-b5b6-ac44f75acdf7</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'c7\'fc\'ba\'af\'c8\'af\'bd\'c3 \'b0\'ed\'b7\'c1\'bb\'e7\'c7\'d7\par
+\'c5\'ab \'c0\'da\'b7\'e1\'c7\'fc\'bf\'a1\'bc\'ad \'c0\'db\'c0\'ba \'c0\'da\'b7\'e1\'c7\'fc\'c0\'b8\'b7\'ce \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb \'c7\'d2 \'b0\'e6\'bf\'ec \'c0\'cf\'ba\'ce\'b0\'a1 \'c0\'df\'b7\'c1\'b3\'aa\'b0\'a5 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+\par
+\'ba\'af\'c8\'af\'c7\'d2 \'c0\'da\'b7\'e1\'c7\'fc\'c0\'bb \'b8\'ed\'bd\'c3((\f1 int))\f0\'c7\'d8\'c1\'d8\'b4\'d9.\par
+\par
+float number1 = 55.55;\par
+int number2 = (int)number1;\par
+bool number3 = (bool)number1;\par
+\par
+\'b8\'ed\'bd\'c3\'c0\'fb \'c7\'fc\'ba\'af\'c8\'af \'b0\'fa \'b9\'ac\'bd\'c3\'c0\'fb \'c7\'fc\'ba\'af\'c8\'af\'c0\'c7 \'c2\'f7\'c0\'cc\'c1\'a1\par
+\par
+* \'b0\'e1\'b0\'fa\'c0\'fb\'c0\'ce \'c2\'f7\'c0\'cc\'b4\'c2 \'be\'f8\'b4\'d9\par
+* \'b8\'ed\'bd\'c3\'c0\'fb \'c7\'fc\'ba\'af\'c8\'af\'c0\'c7 \'b0\'e6\'bf\'ec \'b3\'bb\'ba\'ce\'c0\'fb\'c0\'b8\'b7\'ce \'c0\'d3\'bd\'c3\'ba\'af\'bc\'f6\'b8\'a6 \'bb\'fd\'bc\'ba\'bf\'a1 \'b4\'eb\'c0\'d4\'c7\'cf\'b4\'c2 \'b9\'e6\'bd\'c4\'c0\'b8\'b7\'ce \'bc\'ba\'b4\'c9 \'c0\'fa\'c7\'cf\'b8\'a6 \'c0\'cf\'c0\'b8\'c5\'b3 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+* \'b9\'ac\'bd\'c3\'c0\'fb \'c7\'fc\'ba\'af\'c8\'af\'c0\'c7 \'b0\'e6\'bf\'ec \'b5\'a5\'c0\'cc\'c5\'cd \'bc\'d5\'bd\'c7\'bf\'a1 \'b4\'eb\'c7\'d1 \'b0\'e6\'b0\'ed\'b0\'a1 \'b9\'df\'bb\'fd\'c7\'d1\'b4\'d9.\par
+\par
+\'b8\'ed\'bd\'c3\'c0\'fb \'c7\'fc\'ba\'af\'c8\'af \'c1\'be\'b7\'f9\f1\fs20\par
+\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>명시적 형변환</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T14:40:25.6338419+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-18T16:06:10.77329+09:00</UpdatedOn>
+  <Words>형변환시 고려사항
+큰 자료형에서 작은 자료형으로 형변환을 할 경우 일부가 잘려나갈 수 있다.
+
+변환할 자료형을 명시((int))해준다.
+
+float number1 = 55.55;
+int number2 = (int)number1;
+bool number3 = (bool)number1;
+
+명시적 형변환 과 묵시적 형변환의 차이점
+
+* 결과적인 차이는 없다
+* 명시적 형변환의 경우 내부적으로 임시변수를 생성에 대입하는 방식으로 성능 저하를 일으킬 수 있다.
+* 묵시적 형변환의 경우 데이터 손실에 대한 경고가 발생한다.
+
+명시적 형변환 종류
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

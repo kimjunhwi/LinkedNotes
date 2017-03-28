@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>18ee65ea-2b2c-45b9-b934-0ad056428af4</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs20 UnBoxing\b0\par
+\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450 Reference Type -&gt; Value Type \f1\fs18\'c0\'b8\'b7\'ce \'ba\'af\'c8\'af\'c7\'cf\'b4\'c2 \'b0\'fa\'c1\'a4\'c0\'cc\'b4\'d9\f0\fs20\par
+\f1\fs18{\pntext\f3\'B7\tab}\'c8\'fc(\f0 Reference)\f2\'bf\'a1 \'c0\'d6\'b4\'c2 \'b0\'aa\'c0\'bb \'bd\'ba\'c5\'c3(\f0 Value)\f2\'bf\'a1 \'b0\'aa\'c0\'bb \'ba\'b9\'bb\'e7\'c7\'d1\'b4\'d9.\f0\fs20\par
+\fs18{\pntext\f3\'B7\tab}Boxing\f2\'bf\'a1 \'ba\'f1\'c7\'d8\'bc\'ad \'ba\'f1\'bf\'eb\'c0\'cc \'c5\'a9\'c1\'f8 \'be\'ca\'c1\'f6\'b8\'b8 \'ba\'ce\'b4\'e3\'c0\'cc \'b5\'ca.(\'c1\'d6\'c0\'c7)\f0\fs20\par
+\pard\f2\fs18\par
+\par
+\f0 EX)\par
+\par
+int nValue = 100;\par
+\par
+Object o1 = nValue; // Boxing \f2\'c7\'f6\'bb\'f3\'c0\'cc \'c0\'cf\'be\'ee\'b3\'b2\f0\fs20  \par
+\par
+int nType = (int)o1; // UnBoxing \f2\'c7\'f6\'bb\'f3\'c0\'cc \'c0\'cf\'be\'ee\'b3\'b2\f0\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>UnBoxing</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-25T07:54:47.77795+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T09:23:34.1115988+09:00</UpdatedOn>
+  <Words>UnBoxing
+
+Reference Type -&gt; Value Type 으로 변환하는 과정이다
+힙(Reference)에 있는 값을 스택(Value)에 값을 복사한다.
+Boxing에 비해서 비용이 크진 않지만 부담이 됨.(주의)
+
+
+EX)
+
+int nValue = 100;
+
+Object o1 = nValue; // Boxing 현상이 일어남 
+
+int nType = (int)o1; // UnBoxing 현상이 일어남</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

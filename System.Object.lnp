@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>9ba6757f-8b15-4ded-af69-430a72936642</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 c#\b\f1\fs18\'bf\'a1\'bc\'ad \'c3\'d6\'bb\'f3\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\par
+\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\f0 Value Type\f1\'b0\'fa \f0 Reference Type\f1\'c0\'b8\'b7\'ce \'b3\'aa\'b4\'b5\'be\'ee\'c1\'ae \'c0\'d6\'b4\'d9\b0\f2\par
+\pard\par
+\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>System.Object</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-25T07:50:34.5244647+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-25T13:21:07.7995248+09:00</UpdatedOn>
+  <Words>c#에서 최상위 클래스
+
+Value Type과 Reference Type으로 나뉘어져 있다
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

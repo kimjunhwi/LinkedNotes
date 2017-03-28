@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>4748eaf8-237d-48b2-ba88-023c955824e0</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil DotumChe;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\colortbl ;\red86\green156\blue214;\red30\green30\blue30;\red220\green220\blue220;\red78\green201\blue176;\red180\green180\blue180;\red184\green215\blue163;}
+\viewkind4\uc1\pard\cf1\highlight2\lang1042\f0\fs19 enum\cf3  \cf4 E_DATA\cf3  \cf5 :\cf3  \cf1 char\cf3\par
+\cf5\{\cf3\par
+\tab\cf6 E_ONE\cf5 ,\cf3\par
+\tab\cf6 E_TWO\cf5 ,\cf3\par
+\tab\cf6 E_THREE\cf5 ,\cf3\par
+\cf5\};\cf0\highlight0\f1\fs20\par
+\par
+\f2\'b0\'fa \'b0\'b0\'c0\'cc \f1 E_DATA : char \f2\'c0\'ba \'be\'c8\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c4\'b3\'b8\'af\'c5\'cd\'c7\'fc\'c0\'b8\'b7\'ce \'c7\'d1\'b4\'d9\'b4\'c2 \'c0\'c7\'b9\'cc\'c0\'cc\'b4\'d9\par
+\par
+\'b8\'b8\'be\'e0 \f1 E_DATA \f2  \f1 data\f2\'b8\'a6 \f1 sizeof()\f2\'b8\'a6 \'bd\'e1\'bc\'ad \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6 \'c8\'ae\'c0\'ce \'c7\'d2 \'b0\'e6\'bf\'ec 1\f1 byte\f2\'b0\'a1 \'b3\'aa\'bf\'cd\'bc\'ad\par
+\par
+\'b5\'a5\'c0\'cc\'c5\'cd \'c0\'fd\'be\'e0\'bf\'a1 \'b5\'b5\'bf\'f2\'c0\'cc \'b5\'c8\'b4\'d9.\f1\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Enum</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-18T15:42:11.9407112+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-18T15:51:51.7486744+09:00</UpdatedOn>
+  <Words>enum E_DATA : char
+{
+	E_ONE,
+	E_TWO,
+	E_THREE,
+};
+
+과 같이 E_DATA : char 은 안의 데이터를 캐릭터형으로 한다는 의미이다
+
+만약 E_DATA  data를 sizeof()를 써서 데이터를 확인 할 경우 1byte가 나와서
+
+데이터 절약에 도움이 된다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
