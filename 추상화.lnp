@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>39c975a0-bf7a-48f7-a7fc-29f7b25d4575</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'b0\'b4\'c3\'bc\'bf\'a1\'bc\'ad \'b0\'f8\'c5\'eb\'b5\'c8 \'bc\'d3\'bc\'ba\'b0\'fa \'c7\'e0\'c0\'a7\'b8\'a6 \'c3\'df\'c3\'e2\'c7\'cf\'b4\'c2 \'b0\'cd\par
+\par
+\'bf\'b9\'b8\'a6 \'b5\'e9\'be\'ee \'c8\'ab\'b1\'e6\'b5\'bf \'b1\'b3\'bc\'f6, \'c0\'cc\'bc\'f8\'bd\'c5 \'b1\'b3\'bc\'f6, \'b0\'ad\'b0\'a8\'c2\'f9 \'b1\'b3\'bc\'f6\'b0\'a1 \'c0\'d6\'b4\'d9\'b0\'ed \'c7\'cf\'c0\'da.\par
+\'c0\'cc \'b1\'b3\'bc\'f6\'b5\'e9\'c0\'bb \'b1\'e2\'b9\'dd\'c0\'b8\'b7\'ce \'b0\'f8\'c5\'eb\'b5\'c8 \'bc\'d3\'bc\'ba\'b0\'fa \'c7\'e0\'c0\'a7\'b7\'ce \'c3\'df\'c3\'e2\'c7\'cf\'bf\'a9 '\'b1\'b3\'bc\'f6'\'b6\'f3\'b4\'c2 \'c5\'ac\'b7\'a1\'bd\'ba\'b8\'a6 \'c1\'a4\'c0\'c7\'c7\'d1\'b4\'d9\'b0\'ed \'bb\'fd\'b0\'a2\'c7\'d8\'ba\'b8\'c0\'da.\par
+\'b0\'f8\'c5\'eb\'b5\'c8 \'bc\'d3\'bc\'ba\'c0\'b8\'b7\'ce \'c0\'cc\'b8\'a7, \'c1\'d6\'b9\'ce\'b9\'f8\'c8\'a3, \'b0\'ad\'c0\'c7\'ba\'d0\'be\'df, \'c1\'d6\'bc\'d2, \'c0\'fc\'c8\'ad\'b9\'f8\'c8\'a3\'b8\'a6 \'bc\'b1\'be\'f0\'c7\'cf\'b0\'ed, \par
+\'b0\'f8\'c5\'eb\'b5\'c8 \'c7\'e0\'c0\'a7\'b7\'ce '\'b0\'ad\'c0\'c7\'c7\'cf\'b4\'d9', '\'c3\'a4\'c1\'a1\'c7\'cf\'b4\'d9', '\'b0\'fa\'c1\'a4 \'b5\'ee\'b7\'cf\'c7\'cf\'b4\'d9'\'b8\'a6 \'bc\'b1\'be\'f0\'c7\'df\'b4\'d9\'b0\'ed \'c7\'cf\'c0\'da.\par
+\par
+\'c0\'a7\'bf\'cd \'b0\'b0\'c0\'ba \'b0\'fa\'c1\'a4\'c0\'bb \'b9\'d9\'b7\'ce \'c3\'df\'bb\'f3\'c8\'ad \'b6\'f3\'b0\'ed\'c7\'d1\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>추상화</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T19:12:32.2315898+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T19:15:22.8903509+09:00</UpdatedOn>
+  <Words>객체에서 공통된 속성과 행위를 추출하는 것
+
+예를 들어 홍길동 교수, 이순신 교수, 강감찬 교수가 있다고 하자.
+이 교수들을 기반으로 공통된 속성과 행위로 추출하여 '교수'라는 클래스를 정의한다고 생각해보자.
+공통된 속성으로 이름, 주민번호, 강의분야, 주소, 전화번호를 선언하고, 
+공통된 행위로 '강의하다', '채점하다', '과정 등록하다'를 선언했다고 하자.
+
+위와 같은 과정을 바로 추상화 라고한다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

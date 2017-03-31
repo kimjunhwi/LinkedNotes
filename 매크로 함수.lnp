@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>9e51537a-b9e9-4f8d-8d53-342dc291d21c</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs18\'b8\'c5\'c5\'a9\'b7\'ce \'c7\'d4\'bc\'f6\b0\f1\fs20\par
+\par
+\f0\fs18\'c6\'af\'c2\'a1\f1\fs20\par
+   \par
+\b\f0\fs18 - \'b8\'c5\'c5\'a9\'b7\'ce \'c7\'d4\'bc\'f6\'b6\'f5 #\f1 define SQUARE(X) ((X)*(X)\b0\fs20\par
+\pard\li150\f0\fs18 #\f1 define\f0\'c0\'c7 \'c6\'af\'c2\'a1\'c0\'bb \'c0\'cc\'bf\'eb\'c7\'d8\'bc\'ad \f1 SQUARE(X)\f0\'b0\'a1 ((\f1 X)*(X))\f0\'b7\'ce \'c4\'a1\'c8\'af\'c7\'cf\'bf\'a9 \'c7\'d4\'bc\'f6\'c3\'b3\'b7\'b3 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'cc\'b4\'d9.\par
+- \'b6\'c7\'c7\'d1 \'bc\'b1\'c7\'e0\'c3\'b3\'b8\'ae\'b1\'e2\'bf\'a1\'bc\'ad \'c3\'b3\'b8\'ae \'b5\'c8\'b4\'d9.\par
+\par
+\'b8\'c5\'c5\'a9\'b7\'ce \'c7\'d4\'bc\'f6\'c0\'c7 \'c0\'e5\'c1\'a1\par
+\par
+- \'c0\'da\'b7\'e1\'c7\'fc\'bf\'a1 \'c0\'c7\'c1\'b8\'c0\'fb\'c0\'cc\'c1\'f6 \'be\'ca\'b4\'d9.\par
+- \'c0\'cf\'b9\'dd\'c0\'fb\'c0\'ce \'c7\'d4\'bc\'f6\'bf\'a1 \'ba\'f1\'c7\'d8\'bc\'ad \'bd\'c7\'c7\'e0\'bc\'d3\'b5\'b5\'c0\'c7 \'c0\'cc\'c1\'a1\'c0\'cc \'c0\'d6\'b4\'d9. \'b4\'dc \'c0\'e6\'c0\'ba \'c8\'a3\'c3\'e2\'b0\'fa \'c0\'fb\'c0\'ba \'b6\'f3\'c0\'ce\'bc\'f6\'b0\'a1 \'c7\'ca\'bf\'e4\'c7\'cf\'b4\'d9.\par
+\par
+\f1\fs20\par
+\f0\fs18\'b8\'c5\'c5\'a9\'b7\'ce \'c7\'d4\'bc\'f6\'c0\'c7 \'b4\'dc\'c1\'a1\par
+\par
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent0{\pntxtb\'B7}}\fi-300\li450\'c1\'a4\'c0\'c7 \'c7\'cf\'b1\'e2\'b0\'a1 \'be\'ee\'b7\'c6\'b4\'d9. \'ba\'b9\'c0\'e2\'c7\'d1 \'c7\'d4\'bc\'f6\'b8\'a6 \'b8\'c5\'c5\'a9\'b7\'ce \'c7\'fc\'c5\'c2\'b7\'ce \'c1\'a4\'c0\'c7\'c7\'cf\'b4\'c2\'b5\'a5 \'c7\'d1\'b0\'e8\'b0\'a1 \'c0\'d6\'b4\'d9.\par
+{\pntext\f2\'B7\tab}\'b0\'a1\'b5\'b6\'bc\'ba\'c0\'cc \'c1\'c1\'c4\'a1 \'be\'ca\'b4\'d9.\par
+{\pntext\f2\'B7\tab}\'b4\'dc\'bc\'f8 \'c4\'a1\'c8\'af\'c0\'cc\'b9\'c7\'b7\'ce \'b5\'f0\'b9\'f6\'b1\'eb\'c0\'bb \'c7\'d2 \'bc\'f6 \'be\'f8\'b4\'d9.\par
+\pard\li150\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>매크로 함수</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T15:45:45.6156355+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-28T16:12:09.5712326+09:00</UpdatedOn>
+  <Words>매크로 함수
+
+특징
+   
+- 매크로 함수란 #define SQUARE(X) ((X)*(X)
+#define의 특징을 이용해서 SQUARE(X)가 ((X)*(X))로 치환하여 함수처럼 사용하는 방법이다.
+- 또한 선행처리기에서 처리 된다.
+
+매크로 함수의 장점
+
+- 자료형에 의존적이지 않다.
+- 일반적인 함수에 비해서 실행속도의 이점이 있다. 단 잦은 호출과 적은 라인수가 필요하다.
+
+
+매크로 함수의 단점
+
+정의 하기가 어렵다. 복잡한 함수를 매크로 형태로 정의하는데 한계가 있다.
+가독성이 좋치 않다.
+단순 치환이므로 디버깅을 할 수 없다.
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

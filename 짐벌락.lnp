@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>078c5ca4-19b3-4eae-9df1-56b86d82a011</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c1\'fc\'b9\'fa\'b6\'f4\par
+\par
+\f1 X\f2\'c3\'e0 \f1 Y\f2\'c3\'e0 \f1 Z\f2\'c3\'e0\'c0\'c7 \'bc\'bc \'c3\'e0\'c0\'cc \'c8\'b8\'c0\'fc\'c0\'bb \'c7\'cf\'b4\'d9\'b0\'a1 \'c6\'af\'c1\'a4\'c3\'e0\'c0\'cc \'c6\'af\'c1\'a4 \'b0\'a2\'c0\'b8\'b7\'ce \'c8\'b8\'c0\'fc\'c0\'bb \'c7\'df\'c0\'bb\'b6\'a7\par
+\'b5\'ce \'c3\'e0\'c0\'cc \'b0\'e3\'c3\'c4\'bc\'ad \'c7\'d1 \'c3\'e0\'c0\'cc \'bc\'d2\'bd\'c7\'b5\'c7\'b4\'c2 \'c7\'f6\'bb\'f3\'c0\'cc\'b4\'d9.\par
+\par
+\'c0\'cc \'b9\'ae\'c1\'a6\'b8\'a6 \'c7\'d8\'b0\'e1 \'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8 \'bb\'e7\'bf\'f8\'bc\'f6(\'c4\'f5\'c5\'cd\'b4\'cf\'be\'f0)\'c0\'cc \'c1\'b8\'c0\'e7\'c7\'d1\'b4\'d9. \par
+\'be\'c6\'b4\'cf\'b8\'e9 \'b5\'ce \'b9\'f8\'c2\'b0\'b7\'ce \'c8\'b8\'c0\'fc\'c7\'cf\'b4\'c2 \'c3\'e0\'c0\'c7 \'b0\'a2\'b5\'b5\'b0\'a1 90\'b5\'b5\'b0\'a1 \'b5\'c7\'b4\'c2\'b0\'cd\'c0\'bb \'b8\'b7\'c0\'b8\'b8\'e9 \'b5\'c8\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>짐벌락</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T14:59:24.8765863+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-28T15:00:39.6318621+09:00</UpdatedOn>
+  <Words>짐벌락
+
+X축 Y축 Z축의 세 축이 회전을 하다가 특정축이 특정 각으로 회전을 했을때
+두 축이 겹쳐서 한 축이 소실되는 현상이다.
+
+이 문제를 해결 하기 위해 사원수(쿼터니언)이 존재한다. 
+아니면 두 번째로 회전하는 축의 각도가 90도가 되는것을 막으면 된다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

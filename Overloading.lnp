@@ -8,6 +8,15 @@
 \b\f1{\pntext\f3\'B7\tab}\'b8\'c5\'b0\'b3 \'ba\'af\'bc\'f6\'bf\'a1 \'b5\'fb\'b6\'f3 \'b4\'d9\'b8\'a5 \'c7\'d4\'bc\'f6\'b0\'a1 \'bd\'c7\'c7\'e0\'b5\'c7\'b4\'c2 \'b0\'cd\b0\f0\fs20\par
 \pard\par
 \par
+int Sum (int a, int b)\par
+\{\par
+\tab return a + b;\par
+\}\par
+\par
+int Sum(int a, int b, int c)\tab // overloading\par
+\{\par
+\tab return a + b + c;\par
+\}\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -15,13 +24,22 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-25T15:56:09.6681705+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-25T15:58:59.3809623+09:00</UpdatedOn>
+  <UpdatedOn>2017-03-28T14:55:58.9718093+09:00</UpdatedOn>
   <Words>Overloading - 함수 중복 정의
 
 오버로딩은 같은 이름의 함수에 매개변수를 다르게 사용하여
 매개 변수에 따라 다른 함수가 실행되는 것
 
-</Words>
+
+int Sum (int a, int b)
+{
+	return a + b;
+}
+
+int Sum(int a, int b, int c)	// overloading
+{
+	return a + b + c;
+}</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

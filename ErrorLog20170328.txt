@@ -1,0 +1,72 @@
+2017-03-28 오후 4:22:49
+Unable to apply font style - Italic
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:22:50
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:22:51
+Unable to apply font style - Italic
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:22:59
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:00
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:00
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:00
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:03
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:11
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:18
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:36
+Unable to apply font style - Underline
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:37
+Unable to apply font style - Underline
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:55
+Unable to apply font style - Italic
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:55
+Unable to apply font style - Italic
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:23:56
+Unable to apply font style - Underline
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:24:35
+Unable to apply font style - Underline
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:24:37
+Unable to apply font style - Bold
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)
+2017-03-28 오후 4:24:50
+Unable to apply font style - Underline
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: LinkedNotes.frmMain.ApplyFontStyle(FontStyle style)

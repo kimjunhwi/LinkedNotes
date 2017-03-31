@@ -5,7 +5,8 @@
 \viewkind4\uc1\pard\lang1042\b\f0\fs20 const_cast\b0\par
 \pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450 const_cast\f1\'b4\'c2 \'be\'ee\'b6\'b2 \'c5\'b8\'c0\'d4\'bf\'a1\'bc\'ad \f0 const \f1\'bc\'d3\'bc\'ba\'c0\'bb \'c1\'a6\'b0\'c5 \'c7\'d2 \'b6\'a7 \'bb\'e7\'bf\'eb\'b5\'c8\'b4\'d9\f0\par
 \pard\par
-\b\f1\'c0\'e7\'c7\'d8\'bc\'ae\'c0\'fb\'c0\'ce\b0\f0\par
+\b\f1\'c0\'e7\'c7\'d8\'bc\'ae\'c0\'fb\'c0\'ce\par
+\b0\f0\par
 \b reinterpret_cast\b0\par
 \pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\f1\'c0\'cf\'b9\'dd\'c0\'fb\'c0\'b8\'b7\'ce \'c7\'e3\'bf\'eb\'c7\'cf\'c1\'f6 \'be\'ca\'b4\'c2 \'c0\'a7\'c7\'e8\'c7\'d1 \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb \'c7\'d2 \'b6\'a7 \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9.\'c1\'ef,\f0\par
 \f1{\pntext\f3\'B7\tab}\'b1\'d7 \'be\'c8\'c0\'c7 \'b5\'a5\'c0\'cc\'c5\'cd\'b0\'a1\'be\'ee\'b6\'b2 \'b0\'b4\'c3\'bc\'c0\'cc\'b4\'f8 \'b1\'d7\'c0\'fa \'ba\'f1\'c6\'ae\'bf\'ad\'b7\'ce\'b8\'b8 \'ba\'b8\'b0\'ed \'bf\'f8\'c7\'cf\'b4\'c2 \'c7\'fc\'c0\'b8\'b7\'ce \'b0\'ad\'c1\'a6\'b7\'ce \'c7\'fc\'ba\'af\'c8\'af\'c0\'bb \'c7\'d1\'b4\'d9.\f0\par
@@ -29,11 +30,12 @@ http://pacs.tistory.com/entry/C-%ED%98%95%EB%B3%80%ED%99%98-Typecasting-constcas
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-18T14:42:38.7172931+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-25T13:24:43.1431537+09:00</UpdatedOn>
+  <UpdatedOn>2017-03-31T22:01:49.0295254+09:00</UpdatedOn>
   <Words>const_cast
 const_cast는 어떤 타입에서 const 속성을 제거 할 때 사용된다
 
 재해석적인
+
 reinterpret_cast
 일반적으로 허용하지 않는 위험한 형변환을 할 때 사용한다.즉,
 그 안의 데이터가어떤 객체이던 그저 비트열로만 보고 원하는 형으로 강제로 형변환을 한다.

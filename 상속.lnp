@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>8c3b7e76-4e96-4b72-b280-b0b3cf727beb</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'bb\'f3\'bc\'d3\'c0\'ba \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'bc\'d3\'bc\'ba\'b0\'fa \'c7\'e0\'c0\'a7\'b8\'a6 \'c7\'cf\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\'bf\'a1 \'b9\'b0\'b7\'c1\'c1\'d6\'b0\'c5\'b3\'aa, \'bb\'f3\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\'bf\'a1\'bc\'ad \'b9\'b0\'b7\'c1\'b9\'de\'b4\'c2 \'b0\'cd\'c0\'bb \'c1\'f6\'c4\'aa\'c7\'d1\'b4\'d9.\par
+ \par
+*\'bb\'f3\'bc\'d3\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b8\'e9 \'c1\'c1\'c0\'ba\'c1\'a1\'c0\'ba?\par
+\par
+\'c0\'e7\'bb\'e7\'bf\'eb\'c0\'b8\'b7\'ce \'c0\'ce\'c7\'d1 \'c4\'da\'b5\'e5\'b0\'a1 \'c1\'d9\'be\'ee\'b5\'e7\'b4\'d9. \'c7\'cf\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\'bf\'a1\'bc\'ad \'bc\'d3\'bc\'ba\'c0\'cc\'b3\'aa \'c7\'e0\'c0\'a7\'b8\'a6 \'b4\'d9\'bd\'c3 \'c1\'a4\'c0\'c7\'c7\'cf\'c1\'f6 \'be\'ca\'b0\'ed \'bb\'f3\'bc\'d3 \'b9\'de\'be\'c6\'bc\'ad \'bb\'e7\'bf\'eb\'c7\'d4\'c0\'b8\'b7\'ce\'bd\'e1 \'c4\'da\'b5\'e5\'b0\'a1 \'c1\'d9\'be\'ee\'b5\'e7\'b4\'d9. \par
+\'c1\'bb \'b4\'f5 \'b9\'fc\'bf\'eb\'bc\'ba \'c0\'d6\'b0\'d4 \'bb\'e7\'bf\'eb\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9. \'bf\'b9\'b8\'a6 \'b5\'e9\'be\'ee Object\'c5\'b8\'c0\'d4\'c0\'c7 \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6\'bf\'a1\'b4\'c2 String\'c5\'b8\'c0\'d4\'c0\'cc\'b3\'aa int\'c5\'b8\'c0\'d4\'c0\'c7 \'b0\'b4\'c3\'bc\'b0\'a1 \'be\'b2\'bf\'a9\'b5\'b5 \'b9\'ae\'c1\'a6\'b5\'c7\'c1\'f6 \'be\'ca\'b4\'c2\'b4\'d9. \par
+\'bf\'d6\'b3\'c4\'c7\'cf\'b8\'e9 String\'b0\'fa int\'c5\'b8\'c0\'d4 \'b8\'f0\'b5\'ce Object\'c5\'b8\'c0\'d4\'c0\'c7 \'b0\'b4\'c3\'bc\'b8\'a6 \'bb\'f3\'bc\'d3\'b9\'de\'c0\'ba \'c7\'cf\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'cc\'b1\'e2 \'b6\'a7\'b9\'ae\'c0\'cc\'b4\'d9.\par
+\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>상속</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T19:17:11.8455828+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T19:17:52.7999252+09:00</UpdatedOn>
+  <Words>상속은 클래스의 속성과 행위를 하위 클래스에 물려주거나, 상위 클래스에서 물려받는 것을 지칭한다.
+ 
+*상속을 사용하면 좋은점은?
+
+재사용으로 인한 코드가 줄어든다. 하위 클래스에서 속성이나 행위를 다시 정의하지 않고 상속 받아서 사용함으로써 코드가 줄어든다. 
+좀 더 범용성 있게 사용할 수 있다. 예를 들어 Object타입의 매개변수에는 String타입이나 int타입의 객체가 쓰여도 문제되지 않는다. 
+왜냐하면 String과 int타입 모두 Object타입의 객체를 상속받은 하위 클래스이기 때문이다.
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

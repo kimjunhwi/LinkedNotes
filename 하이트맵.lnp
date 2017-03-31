@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c3d4904f-c476-4445-b60d-779a2277d0f4</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c7\'cf\'c0\'cc\'c6\'ae\'b8\'ca(\f1 Height Map)\par
+\par
+\f0\'c7\'cf\'c0\'cc\'c6\'ae\'b8\'ca\'c0\'ba \'bf\'dc\'ba\'ce \'c1\'f6\'c7\'fc\'c0\'bb \'c3\'b3\'b8\'ae\'c7\'cf\'b4\'c2 \'b1\'e2\'b9\'fd\'c1\'df \'c7\'cf\'b3\'aa\'c0\'cc\'b4\'d9.\par
+\'c1\'f6\'c7\'fc\'c0\'c7 \'b3\'f4\'c0\'cc \'c1\'a4\'ba\'b8\'b4\'c2 \'c7\'cf\'c0\'cc\'c6\'ae\'b8\'ca\'c0\'cc\'b6\'f3 \'ba\'d2\'b8\'ae\'b4\'c2 \'c8\'e6\'b9\'e9\'c0\'cc\'b9\'cc\'c1\'f6\'bf\'a1 \'c0\'fa\'c0\'e5\'b5\'c8\'b4\'d9.\par
+\'c7\'cf\'c0\'cc\'c6\'ae\'b8\'ca\'c0\'ba \'b3\'f4\'b3\'b7\'c0\'cc\'b8\'a6 \'bb\'f6\'c0\'b8\'b7\'ce \'b1\'b8\'ba\'d0\'c7\'cf\'b0\'d4 \'b5\'c7\'b4\'c2\'b5\'a5, \'b8\'ca\'c0\'c7 \'b3\'f4\'c0\'cc\'b0\'a1 \'b3\'b7\'be\'c6\'c1\'fa\'bc\'f6\'b7\'cf \'b0\'cb\'c1\'a4\'bb\'f6\'bf\'a1 \'b0\'a1\'b1\'ee\'bf\'f6\'c1\'f6\'b0\'ed,\par
+\'b8\'ca\'c0\'c7 \'b3\'f4\'c0\'cc\'b0\'a1 \'b3\'f4\'be\'c6\'c1\'fa\'bc\'f6\'b7\'cf \'c8\'f2\'bb\'f6\'bf\'a1 \'b0\'a1\'b1\'ee\'bf\'f6\'c1\'f8\'b4\'d9. \'c1\'ef \'c8\'b8\'bb\'f6 \'b8\'ed\'be\'cf\'bf\'a1 \'b5\'fb\'b6\'f3 \'c1\'df\'b0\'a3\'c0\'c7 \'b3\'f4\'c0\'cc\'b8\'a6 \'c7\'a5\'c7\'f6\'c7\'d1\'b4\'d9.\par
+\par
+\par
+\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>하이트맵</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T15:00:40.8989346+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-28T15:02:08.5749494+09:00</UpdatedOn>
+  <Words>하이트맵(Height Map)
+
+하이트맵은 외부 지형을 처리하는 기법중 하나이다.
+지형의 높이 정보는 하이트맵이라 불리는 흑백이미지에 저장된다.
+하이트맵은 높낮이를 색으로 구분하게 되는데, 맵의 높이가 낮아질수록 검정색에 가까워지고,
+맵의 높이가 높아질수록 흰색에 가까워진다. 즉 회색 명암에 따라 중간의 높이를 표현한다.
+
+
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

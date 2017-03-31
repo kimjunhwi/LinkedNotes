@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>0b7e50a4-7852-4eb7-8f6c-729aa5f6d90d</PageId>
-  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}}
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset2 Symbol;}}
 \viewkind4\uc1\pard\lang1042\b\f0\fs20\'c6\'f7\'c0\'ce\'c5\'cd \'b0\'b3\'b3\'e4\b0\f1\par
 \par
-\f2\'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2 \'b4\'d9\'b8\'a5 \'ba\'af\'bc\'f6\'c0\'c7 \'c1\'d6\'bc\'d2\'b8\'a6 \'b0\'a1\'b8\'a3\'c5\'b0\'b4\'c2 \'ba\'af\'bc\'f6\'b8\'a6 \'c6\'f7\'c0\'ce\'c5\'cd\'b6\'f3\'b0\'ed \'c7\'d1\'b4\'d9.  \'b6\'c7\'c7\'d1 \'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2\f1\par
+\f2\'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2 \'b5\'ce \'b0\'a1\'c1\'f6 \'bf\'e4\'bc\'d2\'b7\'ce \'b1\'b8\'bc\'ba\'b5\'cb\'b4\'cf\'b4\'d9.\par
 \par
-MS Windows \f2\'b0\'e8\'bf\'ad\'c0\'c7 32 bit \'bf\'ee\'bf\'b5\'c3\'bc\'c1\'a6\'b4\'c2 \'b3\'ed\'b8\'ae\'c0\'fb\'c0\'b8\'b7\'ce 4G\'c0\'c7 \'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'cf\'b5\'b5\'b7\'cf \'bc\'b3\'b0\'e8\par
-\tab\tab\tab (64\f1 bit \f2\'bf\'ee\'bf\'b5\'c3\'bc\'c1\'a6\'bf\'cd \'b0\'b0\'c0\'ba\'b0\'e6\'bf\'ec 8\f1 G\f0  \'b8\'de\'b8\'f0\'b8\'ae\'b8\'a6 \'c0\'d0\'c0\'bb\'bc\'f6 \'c0\'d6\'c0\'bd)\f2\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\'b3\'bb\'bf\'eb\'c0\'b8\'b7\'ce \'b0\'a1\'c1\'f6\'b4\'c2 \'c1\'d6\'bc\'d2\'c0\'cc\'b4\'d9\par
+\pard\li150\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c1\'d6\'bc\'d2\'bf\'a1 \'c0\'fa\'c0\'e5\'b5\'c7\'be\'ee \'c0\'d6\'b4\'c2 \'b5\'a5\'c0\'cc\'c5\'cd\'c7\'fc(\f1 data type)\f2\'c0\'d4\'b4\'cf\'b4\'d9.\par
+\pard\li150      \'b5\'a5\'c0\'cc\'c5\'cd \'c7\'fc\'c0\'cc \'c7\'ca\'bf\'e4\'c7\'d1 \'c0\'cc\'c0\'af\'b4\'c2 \'c6\'f7\'c0\'ce\'c5\'cd\'c0\'c7 +,- \'bf\'ac\'bb\'ea\'bd\'c3\'bf\'a1 \'c1\'d6\'bc\'d2\'b0\'a1 \'bf\'c5\'b0\'dc\'c1\'fa \'be\'e7\'c0\'bb \'b0\'e1\'c1\'a4\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad\'c0\'cc\'b4\'d9.\par
+     \'c6\'af\'ba\'b0\'c8\'f7 \'b5\'a5\'c0\'cc\'c5\'cd\'c7\'fc\'c0\'cc \'ba\'fc\'c1\'f8 \'c6\'f7\'c0\'ce\'c5\'cd\'b0\'a1 \'c0\'d6\'b4\'c2\'b5\'a5 \'c0\'cc\'b0\'cd\'c0\'bb \f1 void\f2\'c6\'f7\'c0\'ce\'c5\'cd \'b6\'f3\'b0\'ed \'c7\'d1\'b4\'d9.\par
 \par
-\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9. \'b1\'d7\'b7\'a1\'bc\'ad 1\'b9\'d9\'c0\'cc\'c6\'ae \'b4\'dc\'c0\'a7\'b7\'ce \'c1\'d6\'bc\'d2\'b8\'a6 \'ba\'ce\'bf\'a9\'c7\'cf\'b8\'e9 0 ~ 4294967295 \'b9\'f8\'c1\'f6\'b1\'ee\'c1\'f6 \'bb\'e7\'bf\'eb\'c7\'d2\'bc\'f6 \par
+\'bf\'b9\'b8\'a6\'b5\'e9\'be\'ee\par
 \par
-\'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9.\'c0\'cc\'b7\'b8\'b0\'d4 \'ba\'ce\'bf\'a9\'b5\'c8 \'b9\'f8\'c1\'f6\'b4\'c2 4 \'b9\'d9\'c0\'cc\'c6\'ae \'ba\'af\'bc\'f6\'b0\'a1 \'c0\'fa\'c0\'e5\'c7\'d2\'bc\'f6 \'c0\'d6\'b4\'c2 \'c5\'a9\'b1\'e2(2\'c0\'c7 32\'bd\'c2)\'c0\'cc\'b0\'ed\par
+\tab\b\f1 int *iptr;\b0\par
 \par
-\'b1\'d7\'b7\'b8\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'c1\'d6\'bc\'d2\'b0\'aa\'c0\'ba 4\'b9\'d9\'c0\'cc\'c6\'ae\'b0\'a1 \'b5\'cb\'b4\'cf\'b4\'d9.\par
+\f2\'c0\'a7\'c0\'c7 \'b9\'ae\'c0\'e5\'c0\'ba *\f1 iptr \f2\'c0\'cc\'b6\'f3\'b0\'ed \'be\'b2\'b8\'e9 \f1 int \f2\'c7\'fc\'c0\'cc \'b5\'c8\'b4\'d9\'b4\'c2 \'c0\'c7\'b9\'cc\'b7\'ce \'bb\'fd\'b0\'a2\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
+\'b1\'d7\'b7\'af\'b9\'c7\'b7\'ce \f1 iptr\f0\'c0\'ba \f1 int \f0\'c7\'fc\'c0\'cc \'be\'c6\'b4\'cf\'b6\'f3 \f1 int\f0\'c7\'fc\'c0\'c7 \'c0\'da\'b7\'e1\'b8\'a6 \'b0\'a1\'b8\'ae\'c5\'b0\'b4\'c2 \'c1\'d6\'bc\'d2\'c0\'cc\'b4\'d9.\f2\par
 \par
+\pard\b\f0\'c0\'e5\'c1\'a1\b0\f2\par
 \par
-//\'c6\'f7\'c0\'ce\'c5\'cd \'bb\'e7\'bf\'eb \'c0\'cc\'c0\'af\tab\par
-\tab\'c1\'a6\'c0\'cf \'c5\'ab \'c0\'cc\'c0\'af\'b4\'c2 \'c6\'f7\'c0\'ce\'c5\'cd\'b0\'a1 4\f1 Byte\f2\'c0\'cc\'b1\'e2 \'b6\'a7\'b9\'ae\'c0\'cc\'b4\'d9.\par
-\tab\par
-\tab\'be\'ee\'b6\'b0\'c7\'d1 \'b0\'aa\'c0\'cc \'b5\'e9\'be\'ee\'bf\'cd\'b5\'b5 \'c6\'f7\'c0\'ce\'c5\'cd\'b4\'c2 \'c1\'d6\'bc\'d2\'b0\'aa\'b8\'b8\'c0\'bb \'b0\'a1\'c1\'f6\'b9\'c7\'b7\'ce 4\f1 Byte\f2\'c0\'cc\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1\par
-\tab\par
-\tab\'b8\'de\'b8\'f0\'b8\'ae \'b0\'f8\'b0\'a3\'c0\'bb \'c8\'bf\'c0\'b2\'c0\'fb\'c0\'b8\'b7\'ce \'bb\'e7\'bf\'eb\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\par
-\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\f1 Call by reference\f0\'bf\'a1 \'c0\'c7\'c7\'d1 \'c0\'fc\'bf\'aa \'ba\'af\'bc\'f6 \'bb\'e7\'bf\'eb \'be\'ef\'c1\'a6\f2\par
+\f0{\pntext\f3\'B7\tab}\'b8\'de\'b8\'f0\'b8\'ae\'bf\'a1 \'c1\'f7\'c1\'a2 \'c1\'a2\'b1\'d9 \'b0\'a1\'b4\'c9\f2\par
+\f0{\pntext\f3\'B7\tab}\'ba\'af\'bc\'f6 \'c5\'b8\'c0\'d4\'bf\'a1 \'bb\'f3\'b0\'fc\'be\'f8\'c0\'cc 4\f1 Byte \f0\'c0\'af\'c1\'f6 \'b1\'d7\'b7\'b8\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'bc\'ba\'b4\'c9\'c7\'e2\'bb\'f3\'bf\'a1 \'c1\'c1\'c0\'bd\f2\par
+\pard\par
 \par
 //\'c2\'fc\'b0\'ed \'bb\'e7\'c0\'cc\'c6\'ae\par
 http://myblog.opendocs.co.kr/archives/1259\par
@@ -37,27 +39,29 @@ http://myblog.opendocs.co.kr/archives/1259\par
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-18T14:55:34.1058479+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-25T13:24:53.369573+09:00</UpdatedOn>
+  <UpdatedOn>2017-03-31T19:10:04.2801274+09:00</UpdatedOn>
   <Words>포인터 개념
 
-포인터는 다른 변수의 주소를 가르키는 변수를 포인터라고 한다.  또한 포인터는
+포인터는 두 가지 요소로 구성됩니다.
 
-MS Windows 계열의 32 bit 운영체제는 논리적으로 4G의 메모리를 사용하도록 설계
-			(64bit 운영체제와 같은경우 8G 메모리를 읽을수 있음)
+내용으로 가지는 주소이다
 
-되었습니다. 그래서 1바이트 단위로 주소를 부여하면 0 ~ 4294967295 번지까지 사용할수 
+가리키는 주소에 저장되어 있는 데이터형(data type)입니다.
+     데이터 형이 필요한 이유는 포인터의 +,- 연산시에 주소가 옮겨질 양을 결정하기 위해서이다.
+     특별히 데이터형이 빠진 포인터가 있는데 이것을 void포인터 라고 한다.
 
-있습니다.이렇게 부여된 번지는 4 바이트 변수가 저장할수 있는 크기(2의 32승)이고
+예를들어
 
-그렇기 때문에 주소값은 4바이트가 됩니다.
+	int *iptr;
 
+위의 문장은 *iptr 이라고 쓰면 int 형이 된다는 의미로 생각할 수 있다.
+그러므로 iptr은 int 형이 아니라 int형의 자료를 가리키는 주소이다.
 
-//포인터 사용 이유	
-	제일 큰 이유는 포인터가 4Byte이기 때문이다.
-	
-	어떠한 값이 들어와도 포인터는 주소값만을 가지므로 4Byte이기 때문에
-	
-	메모리 공간을 효율적으로 사용할 수 있다.
+장점
+
+Call by reference에 의한 전역 변수 사용 억제
+메모리에 직접 접근 가능
+변수 타입에 상관없이 4Byte 유지 그렇기 때문에 성능향상에 좋음
 
 
 //참고 사이트

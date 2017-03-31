@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>efde3ffb-f3b2-4173-9c6a-edbd35f0b931</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 Key \f1\fs18\'bf\'cd \f0 Value\f1\'b7\'ce \'c0\'cc\'b7\'e7\'be\'ee\'c1\'ae \'c0\'d6\'c0\'b8\'b8\'e7\par
+\par
+\'c0\'af\'c0\'cf\'b9\'ab\'c0\'cc\'c7\'d1 \'b0\'aa\'c0\'bb \'bf\'f8\'c7\'d2 \'b6\'a7 \'bb\'e7\'bf\'eb\'c7\'d1\'b4\'d9.\par
+\par
+map\'c0\'c7 \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'b4\'c2 \'b7\'b9\'b5\'e5 \'ba\'ed\'b7\'a2 \'c6\'ae\'b8\'ae(red black tree)\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d5\'b4\'cf\'b4\'d9. \par
+\'c6\'ae\'b8\'ae\'b4\'c2 \'c6\'af\'c1\'a4 \'b3\'eb\'b5\'e5\'c0\'c7 \'b0\'aa\'c0\'bb \'b1\'e2\'c1\'d8\'c0\'b8\'b7\'ce \'c0\'db\'c0\'ba \'b0\'aa\'c0\'ba \'bf\'de\'c2\'ca \'bc\'ad\'ba\'ea\'c6\'ae\'b8\'ae,\par
+ \'c5\'ab \'b0\'aa\'c0\'ba \'bf\'c0\'b8\'a5\'c2\'ca \'bc\'ad\'ba\'ea\'c6\'ae\'b8\'ae\'bf\'a1 \'c0\'fa\'c0\'e5\'b5\'c7\'be\'ee \'c6\'af\'c1\'a4 \'b0\'aa\'c0\'bb \'c3\'a3\'c0\'bb\'b6\'a7 \'bc\'b1\'c7\'fc \'c0\'da\'b7\'e1\'b1\'b8\'c1\'b6\'ba\'b8\'b4\'d9 \'ba\'fc\'b8\'a3\'b0\'d4 \'c3\'a3\'c0\'bb \'bc\'f6 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9. \par
+\'c6\'ae\'b8\'ae\'c0\'c7 \'b3\'eb\'b5\'e5\'b4\'c2 \'b1\'ed\'c0\'cc\'b0\'a1 \'c0\'db\'c0\'bb \'bc\'f6\'b7\'cf \'bc\'ba\'b4\'c9\'bf\'a1 \'c0\'af\'b8\'ae\'c7\'cf\'b9\'c7\'b7\'ce \'b1\'d5\'c7\'fc\'c0\'d6\'b0\'d4 \'c0\'fa\'c0\'e5\'b5\'c7\'b4\'c2 \'b0\'cd\'c0\'cc \'c1\'df\'bf\'e4\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+3. Map\'b8\'a6 \'bb\'e7\'bf\'eb\'c7\'d8\'be\'df \'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec\par
+\par
+ - \'c0\'fa\'c0\'e5\'b5\'c8 \'b5\'a5\'c0\'cc\'c5\'cd\'b5\'e9\'c0\'bb \'c1\'a4\'b7\'c4\'c7\'d8\'be\'df \'c7\'d2 \'b0\'e6\'bf\'ec\par
+\par
+ - \'b8\'b9\'c0\'ba \'c0\'da\'b7\'e1\'b5\'e9\'c0\'bb \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed, \'c6\'af\'c1\'a4 \'c0\'da\'b7\'e1\'bf\'a1 \'b4\'eb\'c7\'d8 \'b0\'cb\'bb\'f6\'c0\'bb \'ba\'fc\'b8\'a3\'b0\'d4 \'c7\'d8\'be\'df \'c7\'d2 \'b0\'e6\'bf\'ec\par
+\par
+\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Map</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T18:48:20.4695537+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T19:54:42.9813404+09:00</UpdatedOn>
+  <Words>Key 와 Value로 이루어져 있으며
+
+유일무이한 값을 원할 때 사용한다.
+
+map의 자료구조는 레드 블랙 트리(red black tree)를 사용합니다. 
+트리는 특정 노드의 값을 기준으로 작은 값은 왼쪽 서브트리,
+ 큰 값은 오른쪽 서브트리에 저장되어 특정 값을 찾을때 선형 자료구조보다 빠르게 찾을 수 있습니다. 
+트리의 노드는 깊이가 작을 수록 성능에 유리하므로 균형있게 저장되는 것이 중요합니다.
+
+3. Map를 사용해야 하는 경우
+
+ - 저장된 데이터들을 정렬해야 할 경우
+
+ - 많은 자료들을 저장하고, 특정 자료에 대해 검색을 빠르게 해야 할 경우
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

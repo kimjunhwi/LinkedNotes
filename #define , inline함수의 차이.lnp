@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c2cb9333-195f-48a7-89b6-480931764eed</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 #\f1 define \f2\'b0\'fa \f1 inline \f2\'c7\'d4\'bc\'f6\'c0\'c7 \'c2\'f7\'c0\'cc\par
+\par
+\'c7\'d4\'bc\'f6\'c3\'b3\'b7\'b3 \'be\'b2\'c0\'cc\'b4\'c2 \f1 Macro\f2\'b8\'a6 \'b8\'b8\'b5\'e5\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'ba 2\'b0\'a1\'c1\'f6\'b0\'a1 \'c0\'d6\'b4\'d9.\par
+\par
+#\f1 define\f2\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'b0\'fa \f1 inline \f2\'c7\'d4\'bc\'f6\'c0\'cc\'b4\'d9.\par
+\par
+\pard\li150 2\'b0\'b3\'c0\'c7 \'b0\'a1\'c0\'e5 \'c5\'ab \'c2\'f7\'c0\'cc\'c1\'a1\'c0\'ba \ul\b #\f1 define\f2\'c0\'c7\b0  \b\'b0\'e6\'bf\'ec\'b4\'c2 \'c0\'fc\'c3\'b3\'b8\'ae\'b1\'e2\ulnone\b0\'bf\'a1 \'c0\'c7\'c7\'d8\'bc\'ad \'c3\'b3\'b8\'ae\'b0\'a1 \'b5\'c8\'b4\'d9\'b4\'c2 \'b0\'cd\'c0\'cc\'b0\'ed\par
+\ul\b\f1 inline\f2\'c0\'c7 \'b0\'e6\'bf\'ec\'b4\'c2 \'c4\'c4\'c6\'c4\'c0\'cf\'b7\'af\ulnone\b0\'bf\'a1 \'c0\'c7\'c7\'d8\'bc\'ad \'c3\'b3\'b8\'ae\'b0\'a1 \'b5\'c8\'b4\'d9\'b4\'c2 \'c1\'a1\'c0\'cc\'b4\'d9.\par
+\par
+\'b6\'c7\'c7\'d1 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'c3\'b3\'b8\'ae \'bc\'d3\'b5\'b5\'b4\'c2 \'c0\'fc\'c3\'b3\'b8\'ae\'b1\'e2\'bf\'a1 \'c0\'c7\'c7\'d8\'bc\'ad \'c3\'b3\'b8\'ae\'b0\'a1 \'b5\'c7\'b4\'c2 #\f1 define\f2\'c0\'cc \f1 inline \f2\'c7\'d4\'bc\'f6\'ba\'b8\'b4\'d9 \'b4\'f5 \'ba\'fc\'b8\'a3\'b4\'d9.\par
+\'b4\'dc #\f1 define \f2\'c0\'c7 \'b0\'e6\'bf\'ec\'bf\'a1\'b4\'c2 \'b9\'f6\'b1\'d7\'b0\'a1 \'b9\'df\'bb\'fd\'c7\'cf\'b1\'e2\'b0\'a1 \'bd\'ac\'bf\'ee\'b5\'a5\'b4\'d9 \'b9\'df\'bb\'fd\'c7\'d1 \'b9\'f6\'b1\'d7\'b8\'a6 \'c0\'e2\'b1\'e2\'b0\'a1 \'b8\'c5\'bf\'ec \'c8\'fb\'b5\'e9\'b4\'d9.\f1\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>#define , inline함수의 차이</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T15:41:36.6193937+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-28T16:28:31.6644051+09:00</UpdatedOn>
+  <Words>#define 과 inline 함수의 차이
+
+함수처럼 쓰이는 Macro를 만드는 방법은 2가지가 있다.
+
+#define을 사용하는 방법과 inline 함수이다.
+
+2개의 가장 큰 차이점은 #define의 경우는 전처리기에 의해서 처리가 된다는 것이고
+inline의 경우는 컴파일러에 의해서 처리가 된다는 점이다.
+
+또한 데이터의 처리 속도는 전처리기에 의해서 처리가 되는 #define이 inline 함수보다 더 빠르다.
+단 #define 의 경우에는 버그가 발생하기가 쉬운데다 발생한 버그를 잡기가 매우 힘들다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

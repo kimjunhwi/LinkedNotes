@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>6ddf6ef6-7a5c-4ab0-ade3-88118726c824</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20 Default Value(\f1\fs18\'b5\'f0\'c6\'fa\'c6\'ae \'b0\'aa)\par
+\par
+\b\f2\'bf\'e4\'be\'e0\b0\f1\par
+\b\f2 - \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6\'c0\'c7 \'b5\'f0\'c6\'fa\'c6\'ae \'b0\'aa\'c0\'cc\'b6\'f5 \'c7\'d4\'bc\'f6\'b8\'a6 \'c8\'a3\'c3\'e2\'c7\'d2 \'b6\'a7 \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6(\'c0\'fc\'b4\'de\'c0\'ce\'c0\'da)\'b8\'a6 \'bb\'fd\'b7\'ab\'c7\'d2 \'b0\'e6\'bf\'ec, \'c1\'f6\'c1\'a4\'b5\'c8 \'b5\'f0\'c6\'fa\'c6\'ae \'b0\'aa\'c0\'bb \'b3\'d6\'be\'ee\'bc\'ad\par
+\'c7\'d4\'bc\'f6\'b8\'a6 \'c8\'a3\'c3\'e2\'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'bb \'b8\'bb\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\'c6\'af\'c2\'a1\par
+-\'b5\'f0\'c6\'fa\'c6\'ae \'b0\'aa\'c0\'ba \'c7\'d4\'bc\'f6 \'bf\'f8\'c7\'fc \'bc\'b1\'be\'f0\'bd\'c3 \'bc\'b3\'c1\'a4\'c7\'d1\'b4\'d9.\par
+-\'b5\'f0\'c6\'fa\'c6\'ae \'b0\'aa\'c0\'ba \'bf\'c0\'b8\'a5\'c2\'ca\'bf\'a1\'bc\'ad \'bf\'de\'c2\'ca \'bc\'f8\'bc\'ad\'b7\'ce \'bc\'b3\'c1\'a4\'c7\'d8\'be\'df \'c7\'d1\'b4\'d9.\par
+\par
+\f0 ex) int Test(int nNum1, int nNum2, int nNum3 = 30) // o\par
+      int Test2(int nValue1 = 30, int nValue2, int nValue3) // x \f2\par
+\b0\f1\par
+\f0\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Default Value</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T15:17:22.3312132+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-28T15:27:12.8639898+09:00</UpdatedOn>
+  <Words>Default Value(디폴트 값)
+
+요약
+- 매개변수의 디폴트 값이란 함수를 호출할 때 매개변수(전달인자)를 생략할 경우, 지정된 디폴트 값을 넣어서
+함수를 호출하는 것을 말합니다.
+
+특징
+-디폴트 값은 함수 원형 선언시 설정한다.
+-디폴트 값은 오른쪽에서 왼쪽 순서로 설정해야 한다.
+
+ex) int Test(int nNum1, int nNum2, int nNum3 = 30) // o
+      int Test2(int nValue1 = 30, int nValue2, int nValue3) // x 
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>

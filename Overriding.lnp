@@ -4,8 +4,13 @@
   <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset2 Symbol;}}
 \viewkind4\uc1\pard\lang1042\b\f0\fs18 Overriding\f1\par
 \par
-\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent0{\pntxtb\'B7}}\fi-300\li450\'bb\'f3\'bc\'d3 \'b0\'fc\'b0\'e8\'bf\'a1 \'c0\'d6\'b4\'c2 \'c5\'ac\'b7\'a1\'bd\'ba \'b0\'a3\'bf\'a1 \'b0\'b0\'c0\'ba \'c0\'cc\'b8\'a7\'c0\'c7 \'b8\'de\'bc\'d2\'b5\'e5\'b8\'a6 \'c1\'a4\'c0\'c7\'c7\'cf\'b4\'c2 \'b1\'e2\'bc\'fa\'c0\'bb\par
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent0{\pntxtb\'B7}}\fi-300\li450\'bb\'f3\'bc\'d3 \'b0\'fc\'b0\'e8\'bf\'a1 \'c0\'d6\'b4\'c2 \'c5\'ac\'b7\'a1\'bd\'ba \'b0\'a3\'bf\'a1 \'b0\'b0\'c0\'ba \'c0\'cc\'b8\'a7\'c0\'c7 \'b8\'de\'bc\'d2\'b5\'e5\'b8\'a6 \'c0\'e7\'c1\'a4\'c0\'c7\'c7\'cf\'b4\'c2 \'b1\'e2\'bc\'fa\'c0\'bb\par
 {\pntext\f2\'B7\tab}\'bf\'c0\'b9\'f6\'b6\'f3\'c0\'cc\'b5\'f9 \'c0\'cc\'b6\'f3\'b0\'ed \'c7\'d1\'b4\'d9.\b0\f0\fs20\par
+\pard\li150\par
+\b\f1\fs18\'c1\'b6\'b0\'c7\par
+\par
+- \'c7\'d4\'bc\'f6(\'b8\'de\'bc\'ad\'b5\'e5)\'c0\'c7 \'c0\'cc\'b8\'a7, \f0 return Type, \f1\'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6\'b0\'a1 \'b0\'b0\'be\'c6\'be\'df\'c7\'d4\par
+- \'c1\'a2\'b1\'d9 \'c1\'a6\'c7\'d1\'c0\'da\'c0\'c7 \'b9\'fc\'c0\'a7\'b0\'a1 \'ba\'ce\'b8\'f0\'bf\'cd \'b0\'b0\'b0\'c5\'b3\'aa \'b4\'f5 \'b3\'d0\'be\'ee\'be\'df\'c7\'d4\b0\f0\fs20\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -13,11 +18,16 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-25T15:56:16.3965554+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-25T15:57:39.1432882+09:00</UpdatedOn>
+  <UpdatedOn>2017-03-28T14:54:03.9032277+09:00</UpdatedOn>
   <Words>Overriding
 
-상속 관계에 있는 클래스 간에 같은 이름의 메소드를 정의하는 기술을
-오버라이딩 이라고 한다.</Words>
+상속 관계에 있는 클래스 간에 같은 이름의 메소드를 재정의하는 기술을
+오버라이딩 이라고 한다.
+
+조건
+
+- 함수(메서드)의 이름, return Type, 매개변수가 같아야함
+- 접근 제한자의 범위가 부모와 같거나 더 넓어야함</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
   <PublishedUrl />
   <PublishedService>0</PublishedService>

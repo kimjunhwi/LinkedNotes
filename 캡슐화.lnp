@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>c7ffb29c-d409-4a0b-9f6a-d6529d85b4b3</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'b0\'b4\'c3\'bc\'c0\'c7 \'bb\'f3\'bc\'bc\'c7\'d1 \'b3\'bb\'bf\'eb\'c0\'bb \'b0\'b4\'c3\'bc \'bf\'dc\'ba\'ce\'bf\'a1 \'c3\'b6\'c0\'fa\'c8\'f7 \'bc\'fb\'b1\'e2\'b0\'ed \'b4\'dc\'bc\'f8\'c8\'f7 \'b8\'de\'bd\'c3\'c1\'f6\'b8\'b8\'c0\'b8\'b7\'ce\par
+ \'b0\'b4\'c3\'bc\'bf\'cd\'c0\'c7 \'bb\'f3\'c8\'a3\'c0\'db\'bf\'eb\'c0\'bb \'c7\'cf\'b0\'d4 \'c7\'cf\'b4\'c2 \'b0\'cd\'c0\'bb \'c4\'b8\'bd\'b6\'c8\'ad(encapsulation)\'b6\'f3\'b0\'ed \'c7\'d1\'b4\'d9.\par
+ \'c4\'b8\'bd\'b6\'c8\'ad\'b4\'c2 \'c3\'df\'bb\'f3\'c8\'ad\'bf\'cd \'b0\'c5\'c0\'c7 \'b0\'b0\'c0\'ba \'b0\'b3\'b3\'e4\'c0\'cc\'c1\'f6\'b8\'b8 \'c3\'df\'bb\'f3\'c8\'ad\'b8\'a6 \'c1\'f6\'bf\'f8\'c7\'cf\'b8\'e7 \'ba\'b8\'b4\'d9 \'b1\'b8\'c3\'bc\'c0\'fb\'c0\'cc\'b0\'ed \'c1\'a6\'c7\'d1\'c0\'fb\'c0\'cc\'b6\'f3\'b0\'ed \'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>캡슐화</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T19:15:24.1664239+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T19:16:46.6861437+09:00</UpdatedOn>
+  <Words>객체의 상세한 내용을 객체 외부에 철저히 숨기고 단순히 메시지만으로
+ 객체와의 상호작용을 하게 하는 것을 캡슐화(encapsulation)라고 한다.
+ 캡슐화는 추상화와 거의 같은 개념이지만 추상화를 지원하며 보다 구체적이고 제한적이라고 할 수 있다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>d69990b0-65b0-4b1c-a34f-272d432db579</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'b4\'d9\'c7\'fc\'bc\'ba\'c0\'ba \'b0\'b4\'c3\'bc\'c1\'f6\'c7\'e2\'c0\'c7 \'b0\'b3\'b3\'e4\'bf\'a1\'bc\'ad \'b0\'a1\'c0\'e5 \'c1\'df\'bf\'e4\'c7\'d1 \'c6\'af\'c2\'a1\'c0\'cc\'b6\'f3\'b0\'ed \'b8\'bb\'c7\'d2 \'bc\'f6 \'c0\'d6\'b4\'d9. \par
+\'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc\'b6\'f5 \'bb\'e7\'c0\'fc\'c0\'fb \'c0\'c7\'b9\'cc\'b7\'ce '\'b4\'d9\'be\'e7\'c7\'d1 \'c7\'fc\'c5\'c2\'b7\'ce \'b3\'aa\'c5\'b8\'b3\'af \'bc\'f6 \'c0\'d6\'b4\'c2 \'b4\'c9\'b7\'c2'\'c0\'bb \'b6\'e6\'c7\'d1\'b4\'d9.\par
+ \par
+\'b0\'b4\'c3\'bc\'c1\'f6\'c7\'e2 \'c7\'c1\'b7\'ce\'b1\'d7\'b7\'a1\'b9\'d6\'c0\'ba \'c7\'cf\'b3\'aa\'c0\'c7 \'c5\'ac\'b7\'a1\'bd\'ba \'b3\'bb\'ba\'ce\'bf\'a1 \'b0\'b0\'c0\'ba \'c0\'cc\'b8\'a7\'c0\'c7 \'c7\'e0\'c0\'a7\'b8\'a6 \'bf\'a9\'b7\'b5 \'c1\'a4\'c0\'c7\'c7\'cf\'b0\'c5\'b3\'aa,\par
+ \'bb\'f3\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\'c0\'c7 \'bf\'c0\'c6\'db\'b7\'b9\'c0\'cc\'bc\'c7\'c0\'bb \'c7\'cf\'c0\'a7 \'c5\'ac\'b7\'a1\'bd\'ba\'bf\'a1\'bc\'ad \'b4\'d9\'bd\'c3 \'c1\'a4\'c0\'c7\'c7\'cf\'bf\'a9 \'bb\'e7\'bf\'eb\'c7\'d2 \'bc\'f6 \'c0\'d6\'b1\'e2 \'b6\'a7\'b9\'ae\'bf\'a1 \'b9\'d9\'b7\'ce \'c0\'cc \'b4\'d9\'c7\'fc\'bc\'ba\'c0\'cc\'b6\'f3\'b4\'c2 \'c6\'af\'c2\'a1\'c0\'bb \'b0\'ae\'b4\'c2 \'b0\'cd\'c0\'cc\'b4\'d9.\par
+\par
+\par
+\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>다형성</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-31T19:20:04.9984865+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-31T19:21:59.0020072+09:00</UpdatedOn>
+  <Words>다형성은 객체지향의 개념에서 가장 중요한 특징이라고 말할 수 있다. 
+다형성이란 사전적 의미로 '다양한 형태로 나타날 수 있는 능력'을 뜻한다.
+ 
+객체지향 프로그래밍은 하나의 클래스 내부에 같은 이름의 행위를 여럿 정의하거나,
+ 상위 클래스의 오퍼레이션을 하위 클래스에서 다시 정의하여 사용할 수 있기 때문에 바로 이 다형성이라는 특징을 갖는 것이다.
+
+
+</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

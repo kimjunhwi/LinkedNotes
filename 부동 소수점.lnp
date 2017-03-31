@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>b8c45374-f094-44d8-ad43-360cd8bd2e1b</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\b\f0\fs18\'ba\'ce\'b5\'bf\'bc\'d2\'bc\'f6\'c1\'a1\par
+\par
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent0{\pntxtb\'B7}}\fi-300\li450\b0\'bd\'c7\'bc\'f6\'b8\'a6 \'c7\'a5\'c7\'f6\'c7\'d2\'b6\'a7 \'bc\'d2\'bc\'f6\'c1\'a1\'c0\'c7 \'c0\'a7\'c4\'a1\'b8\'a6 \'b0\'ed\'c1\'a4\'c7\'cf\'b1\'e2 \'be\'ca\'b0\'ed \'b1\'d7 \'c0\'a7\'c4\'a1\'b8\'a6 \'b3\'aa\'c5\'b8\'b3\'bb\'b4\'c2 \'bc\'f6\'b8\'a6 \'b5\'fb\'b7\'ce \'c0\'fb\'b4\'c2\'b0\'cd\'c0\'cc\'b4\'d9.\f1\fs20\par
+\f0\fs18{\pntext\f2\'B7\tab}\'c0\'af\'c8\'bf \'bc\'fd\'c0\'da\'b8\'a6 \'b3\'aa\'c5\'b8\'b3\'bb\'b4\'c2 \{\'b0\'a1\'bc\'f6\} \'bf\'cd \'bc\'d2\'bc\'f6\'c1\'a1\'c0\'c7 \'c0\'a7\'c4\'a1\'b8\'a6 \'c7\'ae\'c0\'cc\'c7\'cf\'b4\'c2 \{\'c1\'f6\'bc\'f6\}\'b7\'ce \'b3\'aa\'b4\'b5\'be\'ee \'c7\'a5\'c7\'f6\'c7\'d1\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>부동 소수점</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-03-28T15:04:18.1883628+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-03-28T15:07:30.5203636+09:00</UpdatedOn>
+  <Words>부동소수점
+
+실수를 표현할때 소수점의 위치를 고정하기 않고 그 위치를 나타내는 수를 따로 적는것이다.
+유효 숫자를 나타내는 {가수} 와 소수점의 위치를 풀이하는 {지수}로 나뉘어 표현한다.</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
+  <PublishedService>0</PublishedService>
+</Page>
