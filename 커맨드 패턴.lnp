@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>75f425a0-587b-487b-b5cf-dfb2f72a3c2b</PageId>
+  <Encrypted>false</Encrypted>
+  <Name>커맨드 패턴</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-06T14:00:23.2678662+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-06T14:00:23.2678662+09:00</UpdatedOn>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

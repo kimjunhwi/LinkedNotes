@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>28a837cb-7e76-4c60-b4a9-8cee8c7b1c9f</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil Microsoft Sans Serif;}{\f1\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}{\f3\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\par
+\f1\'b5\'d1\'c0\'c7 \'b0\'a1\'c0\'e5 \'c5\'ab \'c2\'f7\'c0\'cc\'b4\'c2 \'c6\'af\'c1\'a4 \'c5\'b0\'bf\'a1 \'b4\'eb\'c7\'d1 \'b0\'aa\'c0\'bb \'c3\'a3\'b4\'c2 \'b0\'fa\'c1\'a4\'bf\'a1\'bc\'ad, hash_map\'c0\'ba \'c0\'cc\'b8\'a7 \'b1\'d7\'b4\'eb\'b7\'ce hash table\'c0\'bb \'c0\'cc\'bf\'eb\'c7\'d8\'bc\'ad\par
+ \'c5\'b0-\'b0\'aa \'b0\'fc\'b0\'e8\'b8\'a6 \'c0\'af\'c1\'f6\'c7\'cf\'b8\'e7, \f2 M\f1 ap\'c0\'ba red-black tree \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'bb \'c0\'cc\'bf\'eb\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\'bc\'ba\'b4\'c9\'bb\'f3\'c0\'b8\'b7\'ce\'b4\'c2 \f2 Hash_Map\f3\fs18\'c0\'ba \'c0\'cc\'bb\'f3\'c0\'fb\'c0\'b8\'b7\'ce \f2 O(1)\f3\'c0\'c7 \'bd\'c3\'b0\'a3\'c0\'bb \'bc\'d2\'bf\'e4\'c7\'cf\'c1\'f6\'b8\'b8, \'bd\'c7\'c1\'a6\'b7\'ce\'b4\'c2 \f2 Hash Table\f3\'c0\'c7 \'c5\'a9\'b1\'e2\'bf\'a1 \'b9\'dd\'ba\'f1\'b7\'ca\'c7\'cf\'b4\'c2 \f2 O(n)\f3\'c0\'c7 \'bd\'c3\'b0\'a3\'c0\'bb \'bc\'d2\'bf\'e4\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\'b6\'c7\'c7\'d1 \'c6\'af\'c1\'a4\'c7\'d1 \'b0\'b4\'c3\'bc\'b8\'a6 \f2 key\f3\'b7\'ce \'be\'b5\'b0\'e6\'bf\'ec \'ba\'b0\'b5\'b5\'c0\'c7 \'c0\'fb\'c0\'fd\'c7\'d1 \f2 Hash \f3\'bb\'fd\'bc\'ba \'c7\'d4\'bc\'f6\'b8\'a6 \'b8\'b8\'b5\'e9\'be\'ee\'be\'df\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\f2 Map\f3   \'b7\'b9\'b5\'e5\'ba\'ed\'b7\'a2\'c6\'ae\'b8\'ae\'b4\'c2 \'b1\'d5\'c7\'fc \'c0\'cc\'c1\'f8\'c6\'ae\'b8\'ae\'c0\'c7 \'c0\'cf\'c1\'be?\'c0\'cc\'b6\'f3\'bc\'ad logN\'c0\'bb \'b0\'c5\'c0\'c7 \'c0\'af\'c1\'f6\'c7\'d5\'b4\'cf\'b4\'d9. \f2\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Map &amp; Hash_Map 차이</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-06T13:52:37.4202213+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-06T13:59:42.5725386+09:00</UpdatedOn>
+  <Words>
+둘의 가장 큰 차이는 특정 키에 대한 값을 찾는 과정에서, hash_map은 이름 그대로 hash table을 이용해서
+ 키-값 관계를 유지하며, Map은 red-black tree 알고리즘을 이용합니다.
+
+성능상으로는 Hash_Map은 이상적으로 O(1)의 시간을 소요하지만, 실제로는 Hash Table의 크기에 반비례하는 O(n)의 시간을 소요합니다.
+또한 특정한 객체를 key로 쓸경우 별도의 적절한 Hash 생성 함수를 만들어야합니다.
+
+Map  레드블랙트리는 균형 이진트리의 일종?이라서 logN을 거의 유지합니다. </Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>5ca7d662-77d9-4914-9307-2f27391e9403</PageId>
+  <Encrypted>false</Encrypted>
+  <Name>디자인 패턴</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-06T14:00:12.3842437+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-06T14:00:12.3842437+09:00</UpdatedOn>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>

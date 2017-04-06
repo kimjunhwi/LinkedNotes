@@ -3,7 +3,7 @@
 <page name="프로그래밍" expand="1">
 <page name="C++" expand="1">
 <page name="자료형" expand="1">
-<page name="부동 소수점" expand="1">
+<page name="부동 소수점">
 </page>
 <page name="명시적 형변환" expand="1">
 <page name="명시적 형변환 종류">
@@ -58,19 +58,23 @@
 </page>
 <page name="그래프 파이프라인">
 </page>
-<page name="STL">
+<page name="STL" expand="1">
 <page name="List">
 </page>
 <page name="Vector">
 </page>
 <page name="Map">
 </page>
+<page name="Hash_map">
+</page>
+<page name="Map &amp; Hash_Map 차이">
+</page>
 </page>
 <page name="Unicode">
 </page>
 <page name="멀티바이트">
 </page>
-<page name="DirectX">
+<page name="DirectX" expand="1">
 <page name="짐벌락">
 </page>
 <page name="하이트맵">
@@ -95,7 +99,17 @@
 </page>
 <page name="큐">
 </page>
-<page name="트리">
+<page name="트리" expand="1">
+<page name="포화 이진 트리">
+</page>
+<page name="완전 이진 트리">
+</page>
+<page name="레드 블랙 트리">
+</page>
+<page name="깊이 탐색">
+</page>
+<page name="너비 탐색">
+</page>
 </page>
 <page name="정렬" expand="1">
 <page name="삽입 정렬">
@@ -105,6 +119,8 @@
 <page name="힙 정렬">
 </page>
 <page name="버블 정렬">
+</page>
+<page name="퀵 정렬">
 </page>
 </page>
 </page>
@@ -139,6 +155,14 @@
 <page name="동기">
 </page>
 <page name="비동기">
+</page>
+</page>
+<page name="디자인 패턴" expand="1">
+<page name="팩토리 패턴">
+</page>
+<page name="커맨드 패턴">
+</page>
+<page name="옵저버 패턴">
 </page>
 </page>
 </page>

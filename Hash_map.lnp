@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageId>cc384668-deb9-499f-b3fd-3c60e33925c9</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fnil Microsoft Sans Serif;}{\f1\fnil\fcharset129 Microsoft Sans Serif;}{\f2\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}{\f4\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\par
+\par
+\f1\'c0\'e5\'c1\'a1\par
+\pard{\pntext\f4\'B7\tab}{\*\pn\pnlvlblt\pnf4\pnindent0{\pntxtb\'B7}}\fi-300\li450\f0\par
+\pard\par
+\b\f1\'b4\'dc\'c1\'a1\par
+\pard{\pntext\f4\'B7\tab}{\*\pn\pnlvlblt\pnf4\pnindent0{\pntxtb\'B7}}\fi-300\li450\b0\'c1\'f6\'c1\'a4\'c7\'d1 \'c0\'da\'b7\'e1\'b0\'a1 \'c0\'fb\'c0\'bb \'bd\'c3\'bf\'a1\'b4\'c2 \'b8\'de\'b8\'f0\'b8\'ae \'b3\'b6\'ba\'f1\'bf\'cd \'b0\'cb\'bb\'f6 \'bd\'c3 \'bf\'c0\'b9\'f6\'c7\'ec\'b5\'e5\'b0\'a1 \'bb\'fd\'b1\'e6 \'c0\'a7\'c7\'e8\'c0\'cc\'c0\'d6\'b4\'d9.\f0\par
+\pard\par
+\b\f2\'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \'b0\'e6\'bf\'ec\par
+\pard{\pntext\f4\'B7\tab}{\*\pn\pnlvlblt\pnf4\pnindent0{\pntxtb\'B7}}\fi-300\li450\'c1\'a4\'b7\'c4\'c0\'cc \'c7\'ca\'bf\'e4 \'be\'f8\'b0\'ed \'bf\'c0\'c1\'f7 \'ba\'fc\'b8\'a5 \'b0\'cb\'bb\'f6\'c0\'bb \'bf\'f8\'c7\'d2 \'b0\'e6\'bf\'ec\b0\f3\fs20\par
+\b\f2\fs20{\pntext\f4\'B7\tab}\'ba\'f3\'b9\'f8\'c7\'cf\'b0\'d4 \'c0\'da\'b7\'e1\'b8\'a6 \'bb\'f0\'c0\'d4,\'bb\'e8\'c1\'a6 \'c7\'cf\'c1\'f6 \'be\'ca\'c0\'bb \'b0\'e6\'bf\'ec\b0\f3\fs20\par
+}
+&#x0;</Text>
+  <Encrypted>false</Encrypted>
+  <Name>Hash_map</Name>
+  <CreatedBy>Anonymous</CreatedBy>
+  <CreatedOn>2017-04-06T13:38:52.3840319+09:00</CreatedOn>
+  <UpdatedBy>Anonymous</UpdatedBy>
+  <UpdatedOn>2017-04-06T13:48:41.9457529+09:00</UpdatedOn>
+  <Words>
+
+장점
+
+
+단점
+지정한 자료가 적을 시에는 메모리 낭비와 검색 시 오버헤드가 생길 위험이있다.
+
+사용하는 경우
+정렬이 필요 없고 오직 빠른 검색을 원할 경우
+빈번하게 자료를 삽입,삭제 하지 않을 경우</Words>
+  <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedService>0</PublishedService>
+</Page>
