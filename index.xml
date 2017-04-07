@@ -2,7 +2,17 @@
 <index>
 <page name="프로그래밍" expand="1">
 <page name="C++" expand="1">
-<page name="자료형" expand="1">
+<page name="객체지향">
+<page name="추상화">
+</page>
+<page name="캡슐화">
+</page>
+<page name="상속">
+</page>
+<page name="다형성">
+</page>
+</page>
+<page name="자료형">
 <page name="부동 소수점">
 </page>
 <page name="명시적 형변환" expand="1">
@@ -24,7 +34,7 @@
 <page name="NULL 포인터">
 </page>
 </page>
-<page name="함수" expand="1">
+<page name="함수">
 <page name="Default Value">
 </page>
 <page name="Call by Value">
@@ -58,7 +68,7 @@
 </page>
 <page name="그래프 파이프라인">
 </page>
-<page name="STL" expand="1">
+<page name="STL">
 <page name="List">
 </page>
 <page name="Vector">
@@ -82,16 +92,6 @@
 </page>
 <page name="컴파일 순서" expand="1">
 <page name="일반 함수의 수행 순서">
-</page>
-</page>
-<page name="객체지향" expand="1">
-<page name="추상화">
-</page>
-<page name="캡슐화">
-</page>
-<page name="상속">
-</page>
-<page name="다형성">
 </page>
 </page>
 <page name="자료구조" expand="1">

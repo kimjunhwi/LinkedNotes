@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>304dcaa8-3229-450d-890c-4bcda5e276cc</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\lang1042\b\f0\fs18\'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\b0\f1\fs20\par
+\f0\fs18{\pntext\f3\'B7\tab}\'bc\'b1\'c5\'c3 \'c1\'a4\'b7\'c4\f1\fs20\par
+\f2\fs18{\pntext\f3\'B7\tab}\'c8\'fc \'c1\'a4\'b7\'c4\f1\fs20\par
+\f2\fs18{\pntext\f3\'B7\tab}\'b9\'f6\'ba\'ed \'c1\'a4\'b7\'c4\f1\fs20\par
+\f2\fs18{\pntext\f3\'B7\tab}\'c4\'fc \'c1\'a4\'b7\'c4\f1\fs20\par
+\pard\li150\par
+\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>정렬</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-31T22:03:02.6487361+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-31T22:03:02.6487361+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-06T23:10:18.8115251+09:00</UpdatedOn>
+  <Words>삽입 정렬
+선택 정렬
+힙 정렬
+버블 정렬
+퀵 정렬
+
+</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

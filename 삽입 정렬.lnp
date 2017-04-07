@@ -1,12 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>d9736e26-3ac5-43ab-b7f9-04b30cf36ddb</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\par
+\'bc\'b1\'c5\'c3 \'c1\'a4\'b7\'c4\'b0\'fa \'c7\'d4\'b2\'b2 \'b0\'a1\'c0\'e5 \'b8\'b9\'c0\'cc \'bb\'e7\'bf\'eb\'b5\'c7\'b4\'c2 \'c1\'a4\'b7\'c4\f1  \f0\'b9\'e6\'b9\'fd\'c0\'cc\'c0\'da \'be\'c6\'c1\'d6 \'b0\'a3\'b4\'dc\'c7\'d1 \'c1\'a4\'b7\'c4\f1  \f0\'b9\'e6\'b9\'fd\'c0\'cc\'b4\'d9.\par
+\'bb\'f0\'c0\'d4 \'c1\'a4\'b7\'c4\'c0\'ba \'b9\'dd\'b4\'eb\'b7\'ce \'c0\'fb\'c0\'ba \'ba\'f1\'b1\'b3\'bf\'cd \'b8\'b9\'c0\'ba \'b1\'b3\'c8\'af\'c0\'b8\'b7\'ce \'c6\'af\'c1\'a4\'c1\'f6\'bf\'f6\'c1\'f8\'b4\'d9.\par
+\'b6\'c7\'c7\'d1 \'b9\'f6\'ba\'ed\'c1\'a4\'b7\'c4\'c0\'cc \'c1\'b6\'b1\'dd \'ba\'f1\'c8\'bf\'c0\'b2\'c0\'fb\'c0\'ce \'b8\'e9\'c0\'cc \'c0\'d6\'b1\'e2\'bf\'a1 \'ba\'f1\'b1\'b3\'c8\'bd\'bc\'f6\'b8\'a6 \'c8\'bf\'c0\'b2\'c0\'fb\'c0\'b8\'b7\'ce \'c1\'d9\'c0\'cc\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad \'b0\'ed\'be\'c8\'b5\'c8 \'bb\'f0\'c0\'d4\'c1\'a4\'b7\'c4\'c0\'cc\'b4\'d9.\par
+\par
+\'bd\'c3\'b0\'a3\'ba\'b9\'c0\'e2\'b5\'b5 :\'a1\'a1O(N\'a9\'f7)\par
+\par
+69 10 30 2 16 8 31 22\par
+\par
+[10 69] 30 2 16 8 31 22\par
+\par
+[10 30 69] 2 16 8 31 22\par
+\par
+[2 10 30 69] 16 8 31 22\par
+\par
+[2 10 16 30 69] 8 31 22\par
+\par
+[2 8 10 16 30 69] 31 22\par
+\par
+[2 8 10 16 30 31 69] 22\par
+\par
+2 8 10 16 22 30 31 69\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>삽입 정렬</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-31T22:03:05.6029051+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-31T22:03:05.6029051+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-06T23:09:35.8120656+09:00</UpdatedOn>
+  <Words>
+선택 정렬과 함께 가장 많이 사용되는 정렬 방법이자 아주 간단한 정렬 방법이다.
+삽입 정렬은 반대로 적은 비교와 많은 교환으로 특정지워진다.
+또한 버블정렬이 조금 비효율적인 면이 있기에 비교횟수를 효율적으로 줄이기 위해서 고안된 삽입정렬이다.
+
+시간복잡도 :　O(N²)
+
+69 10 30 2 16 8 31 22
+
+[10 69] 30 2 16 8 31 22
+
+[10 30 69] 2 16 8 31 22
+
+[2 10 30 69] 16 8 31 22
+
+[2 10 16 30 69] 8 31 22
+
+[2 8 10 16 30 69] 31 22
+
+[2 8 10 16 30 31 69] 22
+
+2 8 10 16 22 30 31 69</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

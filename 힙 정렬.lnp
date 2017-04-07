@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>eb6a96a4-17ec-40fd-8e5c-8b731f5e6e5c</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c0\'cc\'c1\'f8 \'bf\'cf\'c0\'fc \'b3\'aa\'b9\'ab\'b8\'a6 \'b9\'e8\'bf\'ad\'bf\'a1\'b4\'d9 \'c1\'a2\'b8\'f1\'bd\'c3\'c5\'b2 \'c0\'fd\'b9\'a6\'c7\'d1 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2\'c0\'cc\'b4\'d9. \'c3\'b3\'c0\'bd\'bf\'a1\'b4\'c2 \'b3\'aa\'b9\'ab \'be\'c6\'b7\'a1\'bf\'a1\'bc\'ad \'c0\'a7\'b7\'ce \'b0\'a2 \'bf\'f8\'bc\'d2\'b5\'e9\'c0\'bb \'c3\'d6\'b4\'eb\'b0\'aa \'c8\'fc \'c1\'b6\'b0\'c7\'bf\'a1 \'b8\'c2\'b0\'d4 \'c1\'a4\'b8\'ae\'c7\'d1 \'b5\'da, \'b3\'aa\'b9\'ab \'bb\'d1\'b8\'ae\'bf\'a1 \'c0\'d6\'b4\'c2 \'c0\'da\'b7\'e1\'b8\'a6 \'c2\'f7\'b7\'ca\'c2\'f7\'b7\'ca \'b3\'aa\'b9\'ab \'b5\'da\'b7\'ce \'bf\'c5\'b1\'e2\'b8\'e9\'bc\'ad \'c8\'fc\'c0\'bb \'c1\'a4\'b7\'c4\'b5\'c8 \'b9\'e8\'bf\'ad\'b7\'ce \'b9\'d9\'b2\'db\'b4\'d9. \'bb\'d1\'b8\'ae\'bf\'a1\'b4\'c2 \'c8\'fc \'b3\'aa\'b9\'ab \'b8\'c7 \'b5\'da\'bf\'a1 \'c0\'d6\'b4\'f8 \'bf\'f8\'bc\'d2\'b0\'a1 \'bf\'d4\'b4\'d9\'b0\'a1, \'b4\'d9\'bd\'c3 \'c8\'fc \'c1\'b6\'b0\'c7\'bf\'a1 \'b8\'c2\'b4\'c2 \'c0\'a7\'c4\'a1\'b7\'ce \'b3\'bb\'b7\'c1\'b0\'a3\'b4\'d9.\par
+\par
+\'bd\'c3\'b0\'a3\'ba\'b9\'c0\'e2\'b5\'b5\'b0\'a1 O(nlogn)\'c0\'ce \'c1\'a4\'b7\'c4 \'be\'cb\'b0\'ed\'b8\'ae\'c1\'f2 \'c1\'df\'bf\'a1\'bc\'ad\'b4\'c2 \'ba\'ce\'b0\'a1\'c0\'fb\'c0\'ce \'b8\'de\'b8\'f0\'b8\'ae\'b0\'a1 \'c0\'fc\'c7\'f4 \'c7\'ca\'bf\'e4\'be\'f8\'b4\'d9\'b4\'c2 \'b0\'d4 \'c5\'ab \'c0\'e5\'c1\'a1\'c0\'cc\'b4\'d9.\par
+\par
+\'bd\'c3\'b0\'a3\'ba\'b9\'c0\'e2\'b5\'b5 : O(nlogn)\par
+\par
+\'b3\'aa\'b9\'ab\'bb\'d1\'b8\'ae\'bf\'a1\'bc\'ad \'c5\'ab \'bc\'f8\'bc\'ad\'b4\'eb\'b7\'ce \'c3\'df\'c3\'e2\f1\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>힙 정렬</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-31T22:03:17.3755785+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-31T22:03:17.3755785+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-06T23:09:50.2978942+09:00</UpdatedOn>
+  <Words>이진 완전 나무를 배열에다 접목시킨 절묘한 알고리즘이다. 처음에는 나무 아래에서 위로 각 원소들을 최대값 힙 조건에 맞게 정리한 뒤, 나무 뿌리에 있는 자료를 차례차례 나무 뒤로 옮기면서 힙을 정렬된 배열로 바꾼다. 뿌리에는 힙 나무 맨 뒤에 있던 원소가 왔다가, 다시 힙 조건에 맞는 위치로 내려간다.
+
+시간복잡도가 O(nlogn)인 정렬 알고리즘 중에서는 부가적인 메모리가 전혀 필요없다는 게 큰 장점이다.
+
+시간복잡도 : O(nlogn)
+
+나무뿌리에서 큰 순서대로 추출</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

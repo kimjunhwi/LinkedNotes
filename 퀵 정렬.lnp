@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>e5bb0576-3962-41c3-81cf-5490c8a3da35</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs20\par
+\'bf\'ac\'bc\'d3\'c0\'fb\'c0\'ce \'ba\'d0\'c7\'d2\'bf\'a1 \'c0\'c7\'c7\'d1 \'c1\'a4\'b7\'c4\'c0\'cc\'b4\'d9. \'c3\'b3\'c0\'bd \'c7\'cf\'b3\'aa\'c0\'c7 \'c3\'e0\'c0\'bb \'c1\'a4\'c7\'d8\'bc\'ad \'c0\'cc \'c3\'e0\'c0\'c7 \'b0\'aa\'ba\'b8\'b4\'d9 \par
+\'c0\'db\'c0\'ba \'b0\'aa\'c0\'ba \'bf\'de\'c2\'ca\'bf\'a1 \'c5\'ab \'b0\'aa\'c0\'ba \'bf\'c0\'b8\'a5\'c2\'ca\'c0\'b8\'b7\'ce \'c0\'a7\'c4\'a1\'bd\'c3\'c5\'b2\'b4\'d9. \'bf\'de\'c2\'ca\'b0\'fa \'bf\'c0\'b8\'a5\'c2\'ca\'c0\'c7 \'bc\'f6 \'b5\'e9\'c0\'ba \par
+\'b4\'d9\'bd\'c3 \'b0\'a2\'b0\'a2\'c0\'c7 \'c3\'e0\'c0\'b8\'b7\'ce \'b3\'aa\'b4\'a9\'be\'ee\'c1\'ae \'c3\'e0\'b0\'aa\'c0\'cc 1\'c0\'cc \'b5\'c9 \'b6\'a7\'b1\'ee\'c1\'f6 \'c1\'a4\'b7\'c4\'c7\'d1\'b4\'d9. \par
+\'be\'c8\'c1\'a4\'bc\'ba\'c0\'cc \'be\'f8\'c0\'b8\'b8\'e7 \'b0\'a1\'c0\'e5 \'b8\'b9\'c0\'cc \'bb\'e7\'bf\'eb\'b5\'c7\'b4\'c2 \'c1\'a4\'b7\'c4\'b9\'fd\'c0\'cc\'b4\'d9.\par
+\par
+\'bd\'c3\'b0\'a3\'ba\'b9\'c0\'e2\'b5\'b5 : NlogN\par
+\par
+[69 10 30 2 16 8 31 22]\par
+\par
+2 [10 30 69 16 8 31 22]\par
+\par
+2 [10 8] 16 [69 30 31 22]\par
+\par
+2 [8] 10 16 [69 30 31 22]\par
+\par
+2 8 10 16 [22 30 31 69]\par
+\par
+2 8 10 16 [22] 30 [31 69]\par
+\par
+\pard 2 8 10 16 22 30 31 69\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>퀵 정렬</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-06T13:59:43.6425998+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-06T13:59:43.6425998+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-06T23:05:57.4595766+09:00</UpdatedOn>
+  <Words>
+연속적인 분할에 의한 정렬이다. 처음 하나의 축을 정해서 이 축의 값보다 
+작은 값은 왼쪽에 큰 값은 오른쪽으로 위치시킨다. 왼쪽과 오른쪽의 수 들은 
+다시 각각의 축으로 나누어져 축값이 1이 될 때까지 정렬한다. 
+안정성이 없으며 가장 많이 사용되는 정렬법이다.
+
+시간복잡도 : NlogN
+
+[69 10 30 2 16 8 31 22]
+
+2 [10 30 69 16 8 31 22]
+
+2 [10 8] 16 [69 30 31 22]
+
+2 [8] 10 16 [69 30 31 22]
+
+2 8 10 16 [22 30 31 69]
+
+2 8 10 16 [22] 30 [31 69]
+
+2 8 10 16 22 30 31 69</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

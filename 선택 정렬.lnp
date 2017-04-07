@@ -1,12 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>2d84da17-85da-4d39-b435-ed83a7d17e36</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}{\f2\fnil\fcharset129 \'b1\'bc\'b8\'b2;}{\f3\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\par
+\'bc\'b1\'c5\'c3 \'c1\'a4\'b7\'c4(\f1 Select Sort)\f2\'c0\'ba \'c1\'a4\'b7\'c4\'b5\'c7\'c1\'f6 \'be\'ca\'c0\'ba \'c0\'fc\'c3\'bc \'c0\'da\'b7\'e1 \'c1\'df\'bf\'a1\'bc\'ad \'c7\'d8\'b4\'e7 \'c0\'a7\'c4\'a1\'bf\'a1 \'b8\'c2\'b4\'c2 \'c0\'da\'b7\'e1\'b8\'a6 \'bc\'b1\'c5\'c3\'c7\'cf\'bf\'a9\par
+\'c0\'a7\'c4\'a1\'b8\'a6 \'b1\'b3\'c8\'af\'c7\'cf\'b4\'c2 \'c1\'a4\'b7\'c4\'b9\'e6\'bd\'c4 \'c0\'cc\'b4\'d9.\par
+\f0\fs20\par
+\'bc\'b1\'c5\'c3 \'c1\'a4\'b7\'c4\'c0\'bb \'bb\'e7\'bf\'eb\'c7\'cf\'bf\'a9 \'c6\'af\'c1\'a4 \'b9\'e8\'bf\'ad\'c0\'c7 \'b0\'aa\'c0\'bb \'bf\'c0\'b8\'a7\'c2\'f7\'bc\'f8\'c0\'b8\'b7\'ce \'c1\'a4\'b7\'c4\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d1 \'c4\'da\'b5\'e5\'c0\'cc\'b4\'d9. \par
+\par
+void SelectionSort(int arr[], int MAX) \{\par
+    int i, j;\par
+    int min, temp;\par
+    for(i=0; i&lt;MAX-1; i++) \{\par
+        min = i;\par
+        for(j=i+1; j&lt;MAX; j++) \{\par
+            if(arr[j] &lt; arr[min]) min = j;\par
+        \}\par
+        temp = arr[i];\par
+        arr[i] = arr[min];\par
+        arr[min] = temp;\par
+    \}\par
+\}\par
+\par
+\b\f2   \'c0\'e5\'c1\'a1\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\b0\f0\'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'be\'e7\'c0\'cc \'c0\'fb\'c0\'bb \'b6\'a7 \'be\'c6\'c1\'d6 \'c1\'c1\'c0\'ba \'bc\'ba\'b4\'c9\'c0\'bb \'b3\'aa\'c5\'b8\'b3\'bf\par
+{\pntext\f3\'B7\tab}\'c0\'db\'c0\'ba \'b0\'aa\'c0\'bb \'bc\'b1\'c5\'c3\'c7\'cf\'b1\'e2 \'c0\'a7\'c7\'d8\'bc\'ad \'ba\'f1\'b1\'b3\'b4\'c2 \'bf\'a9\'b7\'af \'b9\'f8 \'c7\'cf\'c1\'f6\'b8\'b8 \'b1\'b3\'c8\'af \'c8\'bd\'bc\'f6\'b0\'a1 \'c0\'fb\'b4\'d9\par
+\pard\li150\par
+\par
+\b\f2\'b4\'dc\'c1\'a1\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\b0\f0\'b0\'a1\'c0\'e5 \'c0\'db\'c0\'ba \'b0\'aa\'b0\'fa \'c7\'f6\'c0\'e7\'b0\'aa\'c0\'bb \'b1\'b3\'c8\'af\'c7\'cf\'b4\'c2 \'b9\'e6\'bd\'c4\'c0\'cc\'b6\'f3 \'c7\'f6\'c0\'e7\'b0\'aa\'c0\'cc \'b5\'da\'c2\'ca\'c0\'c7 \'be\'ee\'b5\'f0\'b7\'ce \'b0\'a5\'c1\'f6 \'be\'cb \'bc\'f6 \'be\'f8\'c0\'b8\'b9\'c7\'b7\'ce \'be\'f0\'c1\'a4\'bc\'ba\'c0\'cc \'be\'f8\'b4\'d9\par
+{\pntext\f3\'B7\tab}100\'b0\'b3 \'c0\'cc\'bb\'f3\'c0\'c7 \'c0\'da\'b7\'e1\'bf\'a1 \'b4\'eb\'c7\'d8\'bc\'ad\'b4\'c2 \'bc\'d3\'b5\'b5\'b0\'a1 \'b1\'de\'b0\'dd\'c8\'f7 \'b6\'b3\'be\'ee\'c1\'ae\'bc\'ad \'c0\'fb\'c0\'fd\'c8\'f7 \'bb\'e7\'bf\'eb\'b5\'c7\'b1\'e2\'b0\'a1 \'c8\'fb\'b5\'e9\'b4\'d9.\par
+\pard\li150\par
+\par
+\b\f2\'bf\'ac\'bb\'ea \'bd\'c3\'b0\'a3\par
+\par
+\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-300\li450\b0\'bf\'ac\'bb\'ea\'bd\'c3\'b0\'a3 \'b0\'f8\'bd\'c4 : \f1 O(n^2)\f0\par
+\fs18{\pntext\f3\'B7\tab}\'bf\'ac\'bb\'ea\'bd\'c3\'b0\'a3\'c0\'bb \'c7\'a5\'b1\'e2\'c7\'cf\'b4\'c2 \'b9\'e6\'b9\'fd\'c0\'ba \'c0\'cf\'b9\'dd\'c0\'fb\'c0\'b8\'b7\'ce \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2 \f1 O\f0\'c7\'a5\'b1\'e2\'b9\'fd\'c0\'ce\'b5\'a5, \f1 O\f0\'c7\'a5\'b1\'e2\'b9\'fd\'c0\'ba '\'c3\'d6\'be\'c7\'c0\'c7 \'b0\'e6\'bf\'ec'\'bf\'a1 \'b4\'eb\'c7\'d1 \'bf\'ac\'bb\'ea\'bd\'c3\'b0\'a3\'c0\'bb \'b3\'aa\'c5\'b8\'b3\'bd\'b4\'d9.\fs20\par
+\pard\fs18\'c3\'d6\'be\'c7\'c0\'c7 \'bf\'ac\'bb\'ea \'c8\'bd\'bc\'f6\'c0\'c7 \'b0\'e6\'bf\'ec\'b3\'aa \'c6\'f2\'b1\'d5 \'bf\'ac\'bb\'ea \'c8\'bd\'bc\'f6 \'b0\'aa\'c0\'cc\'b3\'aa \'c1\'a4\'b7\'c4\'c0\'c7 \'c8\'bf\'c0\'b2\'bc\'ba\'c0\'ba \f1 MAX\f2\'c0\'c7 \'c1\'a6\'b0\'f6\'c0\'cc \'b5\'c8\'b4\'d9.\par
+\par
+[69 10 30 2 16 8 31 22]\par
+\par
+2 [10 30 69 16 8 31 22]\par
+\par
+2 8 [30 69 16 10 31 22]\par
+\par
+2 8 10 [69 16 30 31 22]\par
+\par
+2 8 10 16 [69 30 31 22]\par
+\par
+2 8 10 16 22 30 31 69\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>선택 정렬</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-03-31T22:03:11.3312328+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-03-31T22:03:11.3312328+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-06T23:08:09.188111+09:00</UpdatedOn>
+  <Words>
+선택 정렬(Select Sort)은 정렬되지 않은 전체 자료 중에서 해당 위치에 맞는 자료를 선택하여
+위치를 교환하는 정렬방식 이다.
+
+선택 정렬을 사용하여 특정 배열의 값을 오름차순으로 정렬하기 위한 코드이다. 
+
+void SelectionSort(int arr[], int MAX) {
+    int i, j;
+    int min, temp;
+    for(i=0; i&lt;MAX-1; i++) {
+        min = i;
+        for(j=i+1; j&lt;MAX; j++) {
+            if(arr[j] &lt; arr[min]) min = j;
+        }
+        temp = arr[i];
+        arr[i] = arr[min];
+        arr[min] = temp;
+    }
+}
+
+  장점
+데이터의 양이 적을 때 아주 좋은 성능을 나타냄
+작은 값을 선택하기 위해서 비교는 여러 번 하지만 교환 횟수가 적다
+
+
+단점
+가장 작은 값과 현재값을 교환하는 방식이라 현재값이 뒤쪽의 어디로 갈지 알 수 없으므로 언정성이 없다
+100개 이상의 자료에 대해서는 속도가 급격히 떨어져서 적절히 사용되기가 힘들다.
+
+
+연산 시간
+
+연산시간 공식 : O(n^2)
+연산시간을 표기하는 방법은 일반적으로 사용하는 O표기법인데, O표기법은 '최악의 경우'에 대한 연산시간을 나타낸다.
+최악의 연산 횟수의 경우나 평균 연산 횟수 값이나 정렬의 효율성은 MAX의 제곱이 된다.
+
+[69 10 30 2 16 8 31 22]
+
+2 [10 30 69 16 8 31 22]
+
+2 8 [30 69 16 10 31 22]
+
+2 8 10 [69 16 30 31 22]
+
+2 8 10 16 [69 30 31 22]
+
+2 8 10 16 22 30 31 69</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>
