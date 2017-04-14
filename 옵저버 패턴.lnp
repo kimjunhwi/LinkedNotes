@@ -2,8 +2,10 @@
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>00170891-251a-452b-83df-7bc406cc776c</PageId>
   <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
-\viewkind4\uc1\pard\lang1042\f0\fs20\'c0\'da\'bd\'c5\'c0\'cc \'b9\'ab\'be\'f9\'c0\'bb \'c7\'cf\'b4\'c2\'c1\'f6\'b4\'c2 \'be\'cb \'c7\'c7\'b7\'e6\'b0\'a1 \'be\'f8\'b0\'ed\par
-\'b8\'ed\'b7\'c9\'b8\'b8 \'b3\'bb\'b8\'ae\'b4\'c2 \'c6\'d0\'c5\'cf\f1\fs20\par
+\viewkind4\uc1\pard\lang1042\f0\fs20\'c0\'da\'bd\'c5\'c0\'cc \'b9\'ab\'be\'f9\'c0\'bb \'c7\'cf\'b4\'c2\'c1\'f6\'b4\'c2 \'be\'cb \'c7\'ca\'bf\'e4\'b0\'a1 \'be\'f8\'b0\'ed\par
+\'b8\'ed\'b7\'c9\'b8\'b8 \'b3\'bb\'b8\'ae\'b4\'c2 \'c6\'d0\'c5\'cf\par
+\par
+\'be\'f7\'c0\'fb\'b0\'b0\'c0\'ba\'b0\'f7\'bf\'a1\'bc\'ad \'c1\'d6\'b7\'ce \'bb\'e7\'bf\'eb\f1\par
 }
 &#x0;</Text>
   <Encrypted>false</Encrypted>
@@ -11,9 +13,12 @@
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-06T14:00:28.8171836+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-06T14:01:45.4815686+09:00</UpdatedOn>
-  <Words>자신이 무엇을 하는지는 알 피룡가 없고
-명령만 내리는 패턴</Words>
+  <UpdatedOn>2017-04-14T19:25:23.4939393+09:00</UpdatedOn>
+  <Words>자신이 무엇을 하는지는 알 필요가 없고
+명령만 내리는 패턴
+
+업적같은곳에서 주로 사용</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>

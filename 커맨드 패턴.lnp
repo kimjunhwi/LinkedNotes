@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PageId>75f425a0-587b-487b-b5cf-dfb2f72a3c2b</PageId>
+  <Text>{\rtf1\ansi\ansicpg949\deff0\deflang1033\deflangfe1042{\fonttbl{\f0\fmodern\fprq1\fcharset129 \'b1\'bc\'b8\'b2;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\lang1042\f0\fs18\'bf\'e4\'c3\'bb \'c0\'da\'c3\'bc\'b8\'a6 \'c4\'b8\'bd\'b6\'c8\'ad\f1\fs20  \f0\fs18\'c7\'cf\'b4\'c2\'b0\'cd \'c0\'d4\'b4\'cf\'b4\'d9. \'c0\'cc\'b8\'a6 \'c5\'eb\'c7\'d8 \'bf\'e4\'c3\'bb\'c0\'cc \'bc\'ad\'b7\'ce \'b4\'d9\'b8\'a5 \'bb\'e7\'bf\'eb\'c0\'da\'b8\'a6 \'b8\'c5\'b0\'b3\'ba\'af\'bc\'f6\'b7\'ce \'b8\'b8\'b5\'e9\'b0\'ed, \'bf\'e4\'c3\'bb\'c0\'bb \'b4\'eb\'b1\'e2\'bd\'c3\'c5\'b0\'b0\'c5\'b3\'aa\par
+\'b7\'ce\'b1\'eb\'c7\'cf\'b8\'e7, \'b5\'c7\'b5\'b9\'b8\'b1 \'bc\'f6 \'c0\'d6\'b4\'c2 \'bf\'ac\'bb\'ea\'c0\'bb \'c1\'f6\'bf\'f8\'c7\'d5\'b4\'cf\'b4\'d9.\par
+\par
+\'b0\'d4\'c0\'d3\'bf\'a1\'bc\'ad \'b4\'dc\'c3\'e0\'c5\'b0\'b8\'a6 \'b9\'d9\'b2\'d9\'b0\'c5\'b3\'aa \'c7\'d2 \'b6\'a7 \'c1\'d6\'b7\'ce \'bb\'e7\'bf\'eb\'b5\'c8\'b4\'d9.\f1\fs20\par
+}
+&#x0;</Text>
   <Encrypted>false</Encrypted>
   <Name>커맨드 패턴</Name>
   <CreatedBy>Anonymous</CreatedBy>
   <CreatedOn>2017-04-06T14:00:23.2678662+09:00</CreatedOn>
   <UpdatedBy>Anonymous</UpdatedBy>
-  <UpdatedOn>2017-04-06T14:00:23.2678662+09:00</UpdatedOn>
+  <UpdatedOn>2017-04-14T19:32:16.2855496+09:00</UpdatedOn>
+  <Words>요청 자체를 캡슐화 하는것 입니다. 이를 통해 요청이 서로 다른 사용자를 매개변수로 만들고, 요청을 대기시키거나
+로깅하며, 되돌릴 수 있는 연산을 지원합니다.
+
+게임에서 단축키를 바꾸거나 할 때 주로 사용된다.</Words>
   <PublishedOn>0001-01-01T00:00:00</PublishedOn>
+  <PublishedUrl />
   <PublishedService>0</PublishedService>
 </Page>
